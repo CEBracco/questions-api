@@ -18,6 +18,7 @@ app.use(methodOverride());
 // Import Models and Controllers
 var models = require('./models/category')(app, mongoose);
 var CategoryCtrl = require('./controllers/categories');
+var QuestionCtrl = require('./controllers/categories');
 
 var router = express.Router();
 
@@ -34,6 +35,9 @@ api.route('/categories/:id')
  .get(CategoryCtrl.findById)
  .put(CategoryCtrl.update)
  .delete(CategoryCtrl.delete);
+
+api.route('/questions/:id') 
+ .post(QuestionCtrl.add);
 
 app.use('/api', api);
 
