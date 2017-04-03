@@ -1,0 +1,1155 @@
+{
+  "name":"Historia",
+  "questions":[
+    {
+      "question":"Cuál es la rama mayoritaria del Islam?",
+      "options":[
+        "Chiísmo",
+        "Sunismo",
+        "Jariyismo",
+        "Sufismo"
+      ],
+      "answer":"Sunismo"
+    },
+    {
+      "question":"De qué fue ministro Manuel Fraga durante el franquismo?",
+      "options":[
+        "De Interior",
+        "De Economía",
+        "De Información y Turismo",
+        "Del Ejército"
+      ],
+      "answer":"De Información y Turismo"
+    },
+    {
+      "question":"En qué año tuvo lugar el ataque a Pearl Harbor?",
+      "options":[
+        "1939",
+        "1940",
+        "1941",
+        "1942"
+      ],
+      "answer":"1941"
+    },
+    {
+      "question":"Las revueltas de dónde son llamadas Intifadas?",
+      "options":[
+        "Montenegro",
+        "Kosovo",
+        "Palestina",
+        "Chechenia"
+      ],
+      "answer":"Palestina"
+    },
+    {
+      "question":"La Comuna de París fue un movimiento…",
+      "options":[
+        "Del mayo de 68",
+        "Hippie de los años 60",
+        "Insurrecional autogestionario del XIX",
+        "De la revolución francesa"
+      ],
+      "answer":"Insurrecional autogestionario del XIX"
+    },
+    {
+      "question":"A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+      "options":[
+        "Evo Morales",
+        "Fidel Castro",
+        "Hugo Chávez",
+        "Rafael Correa"
+      ],
+      "answer":"Hugo Chávez"
+    },
+    {
+      "question":"Quiénes fueron los sans-culottes de la Revolución Francesa?",
+      "options":[
+        "La burguesía durante la Revolución",
+        "La principal masa social revolucionaria",
+        "El nombre despectivo de los burgueses",
+        "Ninguna es correcta"
+      ],
+      "answer":"La principal masa social revolucionaria"
+    },
+    {
+      "question":"Con qué hecho histórico relacionarías al “hombre del tanque” o “rebelde desconocido”?",
+      "options":[
+        "Protestas de plaza Tian’anmen, Pekín",
+        "Protestas de plaza Tahrir, El Cairo",
+        "Protestas de plaza del Sol, Madrid",
+        "Protestas de plaza de Mayo, Buenos Aires"
+      ],
+      "answer":"Protestas de plaza Tian’anmen, Pekín"
+    },
+    {
+      "question":"Qué otro nombre recibió el período de la Gran Hambruna China?",
+      "options":[
+        "Tres años de desastres naturales",
+        "Tres años de dificultades económicas",
+        "Tres años amargos",
+        "Todas son correctas"
+      ],
+      "answer":"Todas son correctas"
+    },
+    {
+      "question":"Cuántos soldados argentinos murieron en la Guerra de las Malvinas?",
+      "options":[
+        "649",
+        "200",
+        "987",
+        "1452"
+      ],
+      "answer":"649"
+    },
+    {
+      "question":"Cuál es la ciudad más antigua de América Latina?",
+      "options":[
+        "Caral",
+        "Valparaíso",
+        "Arequipa",
+        "La Paz"
+      ],
+      "answer":"Caral"
+    },
+    {
+      "question":"A qué presidente ceso el rey Alfonso XIII tras las reacciones que sucedieron a la Semana Trágica?",
+      "options":[
+        "Eduardo Dato",
+        "Antonio Maura",
+        "Segismundo Moret",
+        "Cánovas del Castillo"
+      ],
+      "answer":"Antonio Maura"
+    },
+    {
+      "question":"¿Quién pronunció la frase: “Bebamos de la copa de la destrucción”?",
+      "options":[
+        "Margaret Tatcher",
+        "Mussolini",
+        "Gengis Kan",
+        "Berlusconi"
+      ],
+      "answer":"Gengis Kan"
+    },
+    {
+      "question":"Con qué emperador estuvo casada Cleopatra?",
+      "options":[
+        "Ptolomeo XIV",
+        "Julio César",
+        "Marco Antonio",
+        "Todas son correctas"
+      ],
+      "answer":"Todas son correctas"
+    },
+    {
+      "question":"En qué partido se organizan hoy los carlistas?",
+      "options":[
+        "Comunión Tradicionalista Carlista",
+        "Partido Carlista",
+        "Ambas son correctas",
+        "Ninguna es correcta"
+      ],
+      "answer":"Comunión Tradicionalista Carlista"
+    },
+    {
+      "question":"El Renacimiento marcó el inicio de la Edad…",
+      "options":[
+        "Moderna",
+        "Antigüedad clásica",
+        "Contemporánea",
+        "Media"
+      ],
+      "answer":"Moderna"
+    },
+    {
+      "question":"Qué país fue dirigido por Stalin?",
+      "options":[
+        "Union Soviética",
+        "Cuba",
+        "Alemania",
+        "Polonia"
+      ],
+      "answer":"Union Soviética"
+    },
+    {
+      "question":"Qué se celebra el 8 de Marzo?",
+      "options":[
+        "El día del trabajo",
+        "El día del medio ambiente",
+        "El día de la mujer",
+        "El día del niño"
+      ],
+      "answer":"El día de la mujer"
+    },
+    {
+      "question":"¿Cuál de los siguientes políticos no ha estado implicado en la trama Gürtel?",
+      "options":[
+        "Francisco Camps",
+        "Esteban González Pons",
+        "Mariano Rajoy",
+        "Luis Bárcenas"
+      ],
+      "answer":"Mariano Rajoy"
+    },
+    {
+      "question":"Cuántos siglos duró el Siglo de Oro?",
+      "options":[
+        "Dos",
+        "Uno",
+        "Tres",
+        "Medio"
+      ],
+      "answer":"Dos"
+    },
+    {
+      "question":"Qué fue Dracón?",
+      "options":[
+        "Legislador",
+        "Comerciante",
+        "Médico",
+        "Guerrero"
+      ],
+      "answer":"Legislador"
+    },
+    {
+      "question":"Cómo murió Jacques de Molay, último gran maestre templario?",
+      "options":[
+        "En la hoguera",
+        "Envenenado",
+        "De risa",
+        "Enfermedad"
+      ],
+      "answer":"En la hoguera"
+    },
+    {
+      "question":"Quién es el actual presidente de México (2014)?",
+      "options":[
+        "Enrique Peña Nieto",
+        "Felipe Calderón Hinojosa",
+        "Hugo Chávez",
+        "Vicente Fox"
+      ],
+      "answer":"Enrique Peña Nieto"
+    },
+    {
+      "question":"Quién liberó a Argentina, Chile y Perú?",
+      "options":[
+        "Ernesto ‘Che’ Guevara",
+        "Manual Belgrano",
+        "José de San Martín",
+        "Simón Bolívar"
+      ],
+      "answer":"José de San Martín"
+    },
+    {
+      "question":"Dónde surgió la filosofía?",
+      "options":[
+        "Grecia",
+        "España",
+        "Egipto",
+        "Japón"
+      ],
+      "answer":"Grecia"
+    },
+    {
+      "question":"Para qué fue creado el plan Marshall en 1947?",
+      "options":[
+        "Regalo",
+        "Conquista",
+        "Reconstrucción",
+        "Comercio"
+      ],
+      "answer":"Reconstrucción"
+    },
+    {
+      "question":"Quién fue galardonado con el premio Nobel de la Paz en 2007?",
+      "options":[
+        "Albert Einstein",
+        "Albert Gore",
+        "Albert Schweitzer",
+        "Albert Van Bommel"
+      ],
+      "answer":"Albert Gore"
+    },
+    {
+      "question":"Cómo llamaban a Dios los testigos de Jehová?",
+      "options":[
+        "Mutante",
+        "Buda",
+        "Jehová",
+        "Jesús"
+      ],
+      "answer":"Jehová"
+    },
+    {
+      "question":"Cómo se llama la sustancia que se utiliza en la Iglesia para hacer mucho humo?",
+      "options":[
+        "Vino",
+        "Carbón",
+        "Aceite",
+        "Incienso"
+      ],
+      "answer":"Incienso"
+    },
+    {
+      "question":"Qué modelo de Estado se propugna en la Constitución española?",
+      "options":[
+        "Estado federal",
+        "Estado social y democrático de Derecho",
+        "Estado de Derecho",
+        "Estado liberal"
+      ],
+      "answer":"Estado social y democrático de Derecho"
+    },
+    {
+      "question":"Cómo se llama la capital del antiguo imperio azteca?",
+      "options":[
+        "Quetzalcoatl",
+        "Tenochtitlan",
+        "Culhuacan",
+        "Texcoco"
+      ],
+      "answer":"Tenochtitlan"
+    },
+    {
+      "question":"Los cuatro evangelistas de la Biblia son Mateo, Marcos, Lucas y…",
+      "options":[
+        "Antonio",
+        "Jésus",
+        "José",
+        "Juan"
+      ],
+      "answer":"Juan"
+    },
+    {
+      "question":"Quién gobernó Francia desde 1799 a 1815?",
+      "options":[
+        "Adam Smith",
+        "François Quesnay",
+        "Napoleón Bonaparte",
+        "Louis Bonaldgug"
+      ],
+      "answer":"Napoleón Bonaparte"
+    },
+    {
+      "question":"Qué modelo de Seat significó la motorización de los españoles?",
+      "options":[
+        "500",
+        "Ibiza",
+        "600",
+        "León"
+      ],
+      "answer":"600"
+    },
+    {
+      "question":"Quién presidia España durante el fallido golpe de estado del 23 de Febrero de 1981?",
+      "options":[
+        "Adolfo Suárez",
+        "Leopoldo Calvo Sotelo",
+        "Felipe Gonzalez",
+        "Manual Fraga Iribarne"
+      ],
+      "answer":"Adolfo Suárez"
+    },
+    {
+      "question":"Cuál es la capital del noroeste de España, la capital del reino homónimo medieval?",
+      "options":[
+        "León",
+        "Salamanca",
+        "Valladolid",
+        "Zamora"
+      ],
+      "answer":"León"
+    },
+    {
+      "question":"De que estaba fabricado originalmente el maquillaje blanco de las Geishas?",
+      "options":[
+        "Harina",
+        "Arroz molido",
+        "Plomo",
+        "Flores de loto"
+      ],
+      "answer":"Plomo"
+    },
+    {
+      "question":"Cuál de estos nombres en clave no se corresponde con el de una playa del desembarco de Normandía?",
+      "options":[
+        "Utah",
+        "Todos son correctos",
+        "Juno",
+        "Sword"
+      ],
+      "answer":"Todos son correctos"
+    },
+    {
+      "question":"Qué motivó la rebelión que dio lugar a la Guerra de la Independencia de EEUU?",
+      "options":[
+        "Esclavitud",
+        "Impuesto",
+        "Corrupción",
+        "Represión"
+      ],
+      "answer":"Impuesto"
+    },
+    {
+      "question":"En qué año se dictó la primera Constitución española?",
+      "options":[
+        "1810",
+        "1714",
+        "1812",
+        "1896"
+      ],
+      "answer":"1812"
+    },
+    {
+      "question":"En qué país nació el protestantismo?",
+      "options":[
+        "Alemania",
+        "Italia",
+        "Francia",
+        "Polonia"
+      ],
+      "answer":"Alemania"
+    },
+    {
+      "question":"Qué imperio llegó a conquistar casí toda Europa?",
+      "options":[
+        "Cartago",
+        "Romano",
+        "Espartano",
+        "Vikingo"
+      ],
+      "answer":"Romano"
+    },
+    {
+      "question":"Quiénes fueron los Reyes Católicos?",
+      "options":[
+        "Juana I y Felipe I",
+        "Isabel I y Fernando II",
+        "Isabel II y Francisco de Asís",
+        "Isabel I y Fernando VII"
+      ],
+      "answer":"Isabel I y Fernando II"
+    },
+    {
+      "question":"De qué color es el humo que informa a los creyentes de que se ha elegido un Papa nuevo?",
+      "options":[
+        "Negro",
+        "Rojo",
+        "Amarillo",
+        "Blanco"
+      ],
+      "answer":"Blanco"
+    },
+    {
+      "question":"Cuántos colores tiene la bandera española?",
+      "options":[
+        "Tres",
+        "Cuatro",
+        "Dos",
+        "Uno"
+      ],
+      "answer":"Dos"
+    },
+    {
+      "question":"En qué año se instauró el sufragio femenino en España?",
+      "options":[
+        "1921",
+        "1931",
+        "1951",
+        "1971"
+      ],
+      "answer":"1931"
+    },
+    {
+      "question":"Qué sobrenombre tenía Guillermo I de Inglaterra?",
+      "options":[
+        "El Valiente",
+        "El Loco",
+        "El Conquistador",
+        "El Tirano"
+      ],
+      "answer":"El Conquistador"
+    },
+    {
+      "question":"Maria Antonieta fue reina de qué país?",
+      "options":[
+        "Francia",
+        "Nunca fue reina",
+        "Países Bajos",
+        "Reino Unido"
+      ],
+      "answer":"Francia"
+    },
+    {
+      "question":"Quién consquisto Valencia de los musulmanes?",
+      "options":[
+        "El Cid Campeador",
+        "Fernando III",
+        "Jaume I",
+        "Pere el maestro"
+      ],
+      "answer":"Jaume I"
+    },
+    {
+      "question":"En qué provincia nació el Cid Campeador?",
+      "options":[
+        "Salamanca",
+        "Cantabria",
+        "Burgos",
+        "León"
+      ],
+      "answer":"Burgos"
+    },
+    {
+      "question":"Dónde vivía Ana Frank?",
+      "options":[
+        "Viena",
+        "Berlín",
+        "Ámsterdam",
+        "Brujas"
+      ],
+      "answer":"Ámsterdam"
+    },
+    {
+      "question":"Qué ciudad española era conocida como ‘Lucentum’ por los romanos?",
+      "options":[
+        "Lugo",
+        "Alicante",
+        "Murcia",
+        "Barcelona"
+      ],
+      "answer":"Alicante"
+    },
+    {
+      "question":"En qué viaje Colón encontró a los Mayas?",
+      "options":[
+        "Cuarto",
+        "Tercero",
+        "Segundo",
+        "Primero"
+      ],
+      "answer":"Cuarto"
+    },
+    {
+      "question":"Cómo se llamaba el prisionero que fue liberado por Pilato en lugar de Jesús?",
+      "options":[
+        "Barrabás",
+        "Judas",
+        "José de Arimatea",
+        "Jordi Hurtado"
+      ],
+      "answer":"Barrabás"
+    },
+    {
+      "question":"En qué año viajó el primer hombre a la luna?",
+      "options":[
+        "1969",
+        "1968",
+        "1979",
+        "1957"
+      ],
+      "answer":"1969"
+    },
+    {
+      "question":"Qué país fue el aliado de la marina española en la batalla de trafalgar?",
+      "options":[
+        "Inglaterra",
+        "Portugal",
+        "Francia",
+        "Rusia"
+      ],
+      "answer":"Francia"
+    },
+    {
+      "question":"Cuántos mandamientos hay en el cristianismo?",
+      "options":[
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer":"10"
+    },
+    {
+      "question":"Cuántas huelgas generales se hicieron en España en 2012?",
+      "options":[
+        "Tres",
+        "Ninguna",
+        "Una",
+        "Dos"
+      ],
+      "answer":"Dos"
+    },
+    {
+      "question":"Quién ganó las elecciones presidenciales de la república de México en 2012?",
+      "options":[
+        "Enrique Peña Nieto",
+        "Andres Manuel",
+        "Josefina Vazquez",
+        "Gabriel Quadri"
+      ],
+      "answer":"Enrique Peña Nieto"
+    },
+    {
+      "question":"De dónde es originario el pan con aceite y azúcar?",
+      "options":[
+        "Castilla la Mancha",
+        "Valencia",
+        "Andalucía",
+        "Cataluña"
+      ],
+      "answer":"Andalucía"
+    },
+    {
+      "question":"En qué año se proclamó la II República Española?",
+      "options":[
+        "1925",
+        "1931",
+        "1933",
+        "1936"
+      ],
+      "answer":"1931"
+    },
+    {
+      "question":" Quién es conocido como ” El Victorioso de Alá”?",
+      "options":[
+        "Abderram I",
+        "Abderramam III",
+        "Hisam II",
+        "Almanzor"
+      ],
+      "answer":"Almanzor"
+    },
+    {
+      "question":" Para qué vehiculo se necesitó un carné de conducir por primera vez en España?",
+      "options":[
+        "Coche de caballos",
+        "Automóvil",
+        "Todos",
+        "Bicicleta"
+      ],
+      "answer":"Automóvil"
+    },
+    {
+      "question":"De qué árbol eran las hojas que llevaban en la cabeza los antiguos romanos para simbolizar la victoria?",
+      "options":[
+        "Olivo",
+        "Naranjo",
+        "Pino",
+        "Laurel"
+      ],
+      "answer":"Laurel"
+    },
+    {
+      "question":"Cómo era la relación de Juana I La Loca con su marido, Felipe I?",
+      "options":[
+        "Juana detestaba a su marido",
+        "Juana sentía unos celos patológicos",
+        "Estuvieron siempre enamorados",
+        "Ninguna es correcta"
+      ],
+      "answer":"Juana sentía unos celos patológicos"
+    },
+    {
+      "question":"A qué reino ha pertenecido históricamente Cataluña?",
+      "options":[
+        "Francia",
+        "Navarra",
+        "Castilla",
+        "Aragón"
+      ],
+      "answer":"Aragón"
+    },
+    {
+      "question":"En qué país nació el rey Juan Carlos I ?",
+      "options":[
+        "España",
+        "Austria",
+        "Francia",
+        "Italia"
+      ],
+      "answer":"Italia"
+    },
+    {
+      "question":"Cómo se llamaba el hermano de Napoleón Bonaparte ?",
+      "options":[
+        "Jose Bonaparte",
+        "Pierre Bonaparte",
+        "Pita Bonaparte",
+        "Ernesto Bonaparte"
+      ],
+      "answer":"Jose Bonaparte"
+    },
+    {
+      "question":"Cuál era el nombre de pila de Lenin?",
+      "options":[
+        "Vladímir",
+        "Aléksey",
+        "Iósif",
+        "Aleksandr"
+      ],
+      "answer":"Vladímir"
+    },
+    {
+      "question":"Libertad,Igualdad…¿Cuál es el tercer término del lema de la Revolución Francesa?",
+      "options":[
+        "Apacibilidad",
+        "Austeridad",
+        "Fraternidad",
+        "Probabilidad"
+      ],
+      "answer":"Fraternidad"
+    },
+    {
+      "question":"Qué ciudad fue llamada por los árabes Al-Basit?",
+      "options":[
+        "Alicante",
+        "Albarracín",
+        "Almería",
+        "Albacete"
+      ],
+      "answer":"Albacete"
+    },
+    {
+      "question":"Cuál es la fruta de Canarias?",
+      "options":[
+        "Plátano",
+        "Manzana",
+        "Pera",
+        "Naranja"
+      ],
+      "answer":"Plátano"
+    },
+    {
+      "question":"Cuál es el nombre fenicio de la ciudad de Málaga?",
+      "options":[
+        "Cártago",
+        "Malake",
+        "Gades",
+        "Malaka"
+      ],
+      "answer":"Malaka"
+    },
+    {
+      "question":"Qué Imperio se disolvio,después de 846 años, el 6 de agosto de 1806?",
+      "options":[
+        "El Imperio bizantino",
+        "El Imperio de los Samurais",
+        "El Imperio dorado de Los Incas",
+        "El Sacro Imperio Romano Germánico"
+      ],
+      "answer":"El Sacro Imperio Romano Germánico"
+    },
+    {
+      "question":"De qué manera consiguió EEUU el estado de Alaska de manos de Rusia?",
+      "options":[
+        "Lo conquistó",
+        "Lo compró",
+        "Lo invadió",
+        "Siempre perteneció a EEUU"
+      ],
+      "answer":"Lo compró"
+    },
+    {
+      "question":"Cómo era conocido también el faraón Akenatón, por adorar a un solo Dios?",
+      "options":[
+        "El feo",
+        "El ateo",
+        "El loco",
+        "El hereje"
+      ],
+      "answer":"El hereje"
+    },
+    {
+      "question":"Quién dijo que la diferencia entre la estupidez y la genialidad es que la genialidad tiene límites ?",
+      "options":[
+        "Einstein",
+        "Ghandi",
+        "Nietzsche",
+        "Wilde"
+      ],
+      "answer":"Einstein"
+    },
+    {
+      "question":"En qué viaje Colón encontró a los mayas ?",
+      "options":[
+        "Cuarto",
+        "Tercero",
+        "Segundo",
+        "Primero"
+      ],
+      "answer":"Cuarto"
+    },
+    {
+      "question":"Dónde se encuentra actualmente la Dama de Elche ?",
+      "options":[
+        "En Elche",
+        "En Madrid",
+        "En Segovia",
+        "En Barcelona"
+      ],
+      "answer":"En Madrid"
+    },
+    {
+      "question":"En qué tres estamentos estaba dividida la sociedad en el Antiguo Régimen ?",
+      "options":[
+        "Déspotas,nobleza y judíos",
+        "Déspotas,clero y corte",
+        "Nobleza,tercer estado y judíos",
+        "Clero, nobleza y tercer estado"
+      ],
+      "answer":"Clero, nobleza y tercer estado"
+    },
+    {
+      "question":"Qué otro nombre recibió la Primera Guerra Mundial hasta 1939 ?",
+      "options":[
+        "La Guerra de los 100 años",
+        "La Gran Guerra",
+        "La Guerra entre las Guerras",
+        "Ningún otro"
+      ],
+      "answer":"La Gran Guerra"
+    },
+    {
+      "question":"En qué año dejó de existir el estado llamado Yugoslavia?",
+      "options":[
+        "1989",
+        "1991",
+        "1994",
+        "2003"
+      ],
+      "answer":"2003"
+    },
+    {
+      "question":"Cómo se llamaba el hijo bastardo de Carlos V ?",
+      "options":[
+        "Duque de Alba",
+        "Juan de Austria",
+        "Juan de Tordesillas",
+        "Marqués de Villena"
+      ],
+      "answer":"Juan de Austria"
+    },
+    {
+      "question":"En qué año viajó el primer hombre a la luna?",
+      "options":[
+        "1969",
+        "1968",
+        "1979",
+        "1957"
+      ],
+      "answer":"1969"
+    },
+    {
+      "question":"  Qué título recibían los soberanos musulmanes en España ?",
+      "options":[
+        "Rey",
+        "Jeque",
+        "Khaleesi",
+        "Califa"
+      ],
+      "answer":"Califa"
+    },
+    {
+      "question":"Qué comunidad autónoma tiene más kilometros de costa?",
+      "options":[
+        "Galicia",
+        "Asturias",
+        "Andalucía",
+        "Islas Baleares"
+      ],
+      "answer":"Galicia"
+    },
+    {
+      "question":"Quién descubrió América ?",
+      "options":[
+        "Cristobal Colón",
+        "Fernando Alonso",
+        "Ludwing van Beethoven",
+        "Un hombre lobo"
+      ],
+      "answer":"Cristobal Colón"
+    },
+    {
+      "question":"En qué año se abrió el canal de Panamá ?",
+      "options":[
+        "1879",
+        "1914",
+        "1810",
+        "1888"
+      ],
+      "answer":"1914"
+    },
+    {
+      "question":"En qué año se perpetró la matanza de My Lai ?",
+      "options":[
+        "1955",
+        "1968",
+        "1974",
+        "1975"
+      ],
+      "answer":"1968"
+    },
+    {
+      "question":"Qué Emperador Romano estuvo más años en el poder ?",
+      "options":[
+        "Octavio Augusto",
+        "Vespasiano",
+        "Claudio",
+        "Adriano"
+      ],
+      "answer":"Octavio Augusto"
+    },
+    {
+      "question":"Qué heroína de la Guerra de la Independencia Española murió en Ceuta?",
+      "options":[
+        "Agustina de Aragón",
+        "Manuela Malasaña",
+        "Mariana Pineda",
+        "María Cristina"
+      ],
+      "answer":"Agustina de Aragón"
+    },
+    {
+      "question":"En qué siglo termina la Edad Media?",
+      "options":[
+        "XIII",
+        "XIV",
+        "XV",
+        "XVI"
+      ],
+      "answer":"XV"
+    },
+    {
+      "question":"En qué año subió Bismarck al poder ?",
+      "options":[
+        "1921",
+        "1862",
+        "1871",
+        "1857"
+      ],
+      "answer":"1862"
+    },
+    {
+      "question":"A qué criatura atribuían los pilotos ingleses las fallas de sus aviones durante la Segunda Guerra Mundial ?",
+      "options":[
+        "A los erdzwerge",
+        "A los gremlins",
+        "A los duendes",
+        "A los leprechauns"
+      ],
+      "answer":"A los gremlins"
+    },
+    {
+      "question":"En qué siglo Europa conquistó Australia?",
+      "options":[
+        "XII",
+        "XIV",
+        "XVI",
+        "XVII"
+      ],
+      "answer":"XVII"
+    },
+    {
+      "question":"Cuáles son los principios del Derecho?",
+      "options":[
+        "Igualdad y Seguridad",
+        "Equidad y Justicia",
+        "Seguridad y Rectitud",
+        "Legalidad y Justicia"
+      ],
+      "answer":"Equidad y Justicia"
+    },
+    {
+      "question":"Quién fue Bobby Fischer?",
+      "options":[
+        "Un futbolista histórico",
+        "Una leyenda del ajedrez",
+        "El inventor del Fisch",
+        "Un filósofo norteamericano"
+      ],
+      "answer":"Una leyenda del ajedrez"
+    },
+    {
+      "question":"Qué francés fue gillotinado por Robespierre durante la Revolución Francesa?",
+      "options":[
+        "Luis XVI",
+        "Luis XIV",
+        "Carlos X",
+        "Ninguno"
+      ],
+      "answer":"Luis XVI"
+    },
+    {
+      "question":"Cómo se llama la casilla del centinela?",
+      "options":[
+        "Casita",
+        "Garita",
+        "Pecera",
+        "Cabina"
+      ],
+      "answer":"Garita"
+    },
+    {
+      "question":"Quién es el sucesor directo de Juan Carlos I?",
+      "options":[
+        "Leticia Ortiz",
+        "Felipe VI",
+        "Infanta Leonor",
+        "Infanta Sofía"
+      ],
+      "answer":"Felipe VI"
+    },
+    {
+      "question":"Qué nombre recibían las mayores circunscripciones políticas y administrativas en la América dominada por España?",
+      "options":[
+        "Virreinato",
+        "Sedes",
+        "Centros",
+        "Subreinados"
+      ],
+      "answer":"Virreinato"
+    },
+    {
+      "question":"105 – El cristianismo y el islaismo son las religiones más extendidas en el mundo. ¿Cuál es la siguiente?",
+      "options":[
+        "El budismo",
+        "El hinduísmo",
+        "Las religiones indígenas",
+        "La religión tradicional china"
+      ],
+      "answer":"El hinduísmo"
+    },
+    {
+      "question":"Cuántos meses duró la Batalla de Moscú, que tuvo lugar durante la Segunda Guerra Mundial?",
+      "options":[
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis"
+      ],
+      "answer":"Tres"
+    },
+    {
+      "question":"En qué idioma se escribió el antiguo testamento por primera vez?",
+      "options":[
+        "Hebreo",
+        "Griego",
+        "Latín",
+        "Jesuíta"
+      ],
+      "answer":"Hebreo"
+    },
+    {
+      "question":"Quién recibió en 2009 el Premio Nobel de la Paz?",
+      "options":[
+        "Barack Obama",
+        "Bill Clinton",
+        "Homer Simpson",
+        "Michelle Obama"
+      ],
+      "answer":"Barack Obama"
+    },
+    {
+      "question":"Cuál de estas afirmaciones sobre Buenaventura Durruti no es cierta?",
+      "options":[
+        "Murió al comienzo de la Guerra Civil Española",
+        "Atracó el Banco de España en 1923",
+        "Militó en la CNT",
+        "Todas son ciertas"
+      ],
+      "answer":"Todas son ciertas"
+    },
+    {
+      "question":"Según el griego, qué significa el nombre “Mesopotamia”?",
+      "options":[
+        "Ciudad con poderío",
+        "Arriba de los Ríos",
+        "Díos del Río",
+        "Entre Ríos"
+      ],
+      "answer":"Entre Ríos"
+    },
+    {
+      "question":"Cómo se llama la actual presidenta de Costa Rica?",
+      "options":[
+        "Cristina Fernández de Kirchner",
+        "Isabel Martínez de Perón",
+        "Laura Chinchilla",
+        "Michelle Bachelet"
+      ],
+      "answer":"Laura Chinchilla"
+    },
+    {
+      "question":"Qué universidad cumplió 125 años en 2011?",
+      "options":[
+        "Deusto",
+        "Harvard",
+        "Oxford",
+        "UEM"
+      ],
+      "answer":"Deusto"
+    },
+    {
+      "question":"Qué científico alemán trabajó NASA?",
+      "options":[
+        "Wernher von Braun",
+        "Claus von Stauffenberg",
+        "Joachim von Ribbentrop",
+        "Ninguno de ellos"
+      ],
+      "answer":"Wernher von Braun"
+    },
+    {
+      "question":"En qué ciudad se proclamó la primera constitución liberal de España en 1812?",
+      "options":[
+        "Madrid",
+        "San Fernando",
+        "Cádiz",
+        "Ninguna es correcta"
+      ],
+      "answer":"Cádiz"
+    },
+    {
+      "question":"En qué año empezó la Guerra del Golfo Pérsico?",
+      "options":[
+        "1985",
+        "1990",
+        "1995",
+        "1999"
+      ],
+      "answer":"1990"
+    },
+    {
+      "question":"Durante qué años reinó de forma impuesta en España José Bonaparte?",
+      "options":[
+        "Desde 1798 a 1810",
+        "Desde 1808 a 1813",
+        "Desde 1801 a 1805",
+        "Desde 1801 a 1812"
+      ],
+      "answer":"Desde 1808 a 1813"
+    },
+    {
+      "question":"En qué guerra se hundieron los buques Sheffiel y Coventry?",
+      "options":[
+        "Primera Guerra Mundial",
+        "Malvinas",
+        "Segunda Guerra Mundial",
+        "Guerra de Independencia de EEUU"
+      ],
+      "answer":"Malvinas"
+    },
+    {
+      "question":"Cuál fue el primer trayecto en tren en España?",
+      "options":[
+        "Madrid – Barcelona",
+        "Madrid – Aranjuez",
+        "Barcelona – Mataró",
+        "Madrid – Alicante"
+      ],
+      "answer":"Barcelona – Mataró"
+    }
+  ]
+}

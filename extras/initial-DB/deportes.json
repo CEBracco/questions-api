@@ -1,0 +1,885 @@
+{
+  "name":"Deportes",
+  "questions":[
+    {
+      "question":"¿De que deporte es el kemari uno de los principales antecesores? .",
+      "options":[
+        "Fútbol",
+        "Ténis",
+        "Rugby",
+        "Karate"
+      ],
+      "answer":"Fútbol"
+    },
+    {
+      "question":"¿Cuál es el clásico rival del Flamengo (BRA)?.",
+      "options":[
+        "Corinthians",
+        "Palmeiras",
+        "Cruzeiro",
+        "São Paulo"
+      ],
+      "answer":"Corinthians"
+    },
+    {
+      "question":"¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?.",
+      "options":[
+        "Luciana Aymar",
+        "Natascha Keller",
+        "Alyson Annan",
+        "Maartje Paumen"
+      ],
+      "answer":"Luciana Aymar"
+    },
+    {
+      "question":"¿Cuántas finales del mundo jugó la Selección Argentina de fútbol?.",
+      "options":[
+        "Cinco",
+        "Seis",
+        "Cuatro",
+        "Tres"
+      ],
+      "answer":"Cuatro"
+    },
+    {
+      "question":"¿Quién marcó el gol 3.500 en Liga del Atlético de Madrid?.",
+      "options":[
+        "Christian Vieri",
+        "Zinedine Zidane",
+        "Luka Modric",
+        "Adrián Escudero"
+      ],
+      "answer":"Christian Vieri"
+    },
+    {
+      "question":"¿Cuántos mangos por lado tiene el futbolín?.",
+      "options":[
+        "Dos",
+        "Tres",
+        "Cuatro",
+        "Cinco"
+      ],
+      "answer":"Cuatro"
+    },
+    {
+      "question":"¿Cuál es el estilo de natación más rápido?.",
+      "options":[
+        "Crol",
+        "Espalda",
+        "Mariposa",
+        "Pecho"
+      ],
+      "answer":"Crol"
+    },
+    {
+      "question":"¿Cuántos jugadores componen un equipo de rugby?.",
+      "options":[
+        "11",
+        "12",
+        "15",
+        "21"
+      ],
+      "answer":"15"
+    },
+    {
+      "question":"¿Cuántas puntas de cada color hay en un tablero de backgammon?.",
+      "options":[
+        "Ocho",
+        "Doce",
+        "Catorce",
+        "Dieciséis"
+      ],
+      "answer":"Doce"
+    },
+    {
+      "question":"¿En qué país se inventó el voleibol?.",
+      "options":[
+        "Gran Bretaña",
+        "Francia",
+        "Rusia",
+        "Estados Unidos"
+      ],
+      "answer":"Estados Unidos"
+    },
+    {
+      "question":"¿Cuál de las siguientes modalidades no forma parte del deporte rural vasco?.",
+      "options":[
+        "Arrastre de piedra",
+        "Lanzamiento de fardo",
+        "Corte de troncos",
+        "Desintegramiento de piedra"
+      ],
+      "answer":"Desintegramiento de piedra"
+    },
+    {
+      "question":"¿Qué tienen en común Ty Cobb, Cy Young y Roberto Clemente?.",
+      "options":[
+        "Son jugadores de béisbol",
+        "Son jugadores de fútbol",
+        "Son jugadores de baloncesto",
+        "Son jugadores de golf"
+      ],
+      "answer":"Son jugadores de béisbol"
+    },
+    {
+      "question":"¿Dónde se jugará la Copa Mundial de Rugby en 2015?.",
+      "options":[
+        "Inglaterra",
+        "Australia",
+        "Escocia",
+        "Gales"
+      ],
+      "answer":"Inglaterra"
+    },
+    {
+      "question":"¿Qué selección acumula mayor cantidad de expulsados en  mundiales de fútbol?.",
+      "options":[
+        "Argentina",
+        "Brasil",
+        "Italia",
+        "Camerún"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"¿Quién inventó el arte marcial llamado Jeet Kune Do?.",
+      "options":[
+        "David Carradine",
+        "Bruce Lee",
+        "Kato Mimoko",
+        "Ninguna es correcta"
+      ],
+      "answer":"Bruce Lee"
+    },
+    {
+      "question":"¿De qué deporte es el longboard una de las modalidades?.",
+      "options":[
+        "Skateboard",
+        "Snowboard",
+        "Alpinismo",
+        "Surf"
+      ],
+      "answer":"Skateboard"
+    },
+    {
+      "question":"¿En qué deporte se destaca Jonny Wilkinson?.",
+      "options":[
+        "Rugby",
+        "Fútbol",
+        "Atletismo",
+        "Remo"
+      ],
+      "answer":"Rugby"
+    },
+    {
+      "question":"¿De qué color es el cero en el cilindro de la ruleta?.",
+      "options":[
+        "Blanco",
+        "Negro",
+        "Rojo",
+        "Verde"
+      ],
+      "answer":"Verde"
+    },
+    {
+      "question":"¿A qué barrio porteño pertenece el club de fútbol San Lorenzo?.",
+      "options":[
+        "Boedo",
+        "La Boca",
+        "Liniers",
+        "Paternal"
+      ],
+      "answer":"Boedo"
+    },
+    {
+      "question":"¿Cuánto pesa aproximadamente una bola de bolera?.",
+      "options":[
+        "5 kilos y cuarto",
+        "Cuatro kilos y medio",
+        "Siete kilos y cuarto",
+        "Ocho kilos y cuarto"
+      ],
+      "answer":"Siete kilos y cuarto"
+    },
+    {
+      "question":"¿Cuántos puntos vale un tiro libre ensectado en baloncesto?.",
+      "options":[
+        "Uno",
+        "Dos",
+        "Tres",
+        "Depende"
+      ],
+      "answer":"Uno"
+    },
+    {
+      "question":"¿Cuál es el estadio de fútbol con mayor capacidad en América?.",
+      "options":[
+        "Estadio Azteca (México)",
+        "Estadio Maracaná (Brasil)",
+        "Estadio Monumentar (Argentina)",
+        "Estadio Morumbi (Brasil)"
+      ],
+      "answer":"Estadio Azteca (México)"
+    },
+    {
+      "question":"¿Qué tipo de competición es el Giro de Italia?.",
+      "options":[
+        "Una carrera ciclista",
+        "Una competición de vela",
+        "Un maratón",
+        "Una carrera automovilística"
+      ],
+      "answer":"Una carrera ciclista"
+    },
+    {
+      "question":"¿Cuánto dura un partido de fútbol?.",
+      "options":[
+        "90 minutos",
+        "45 minutos",
+        "75 minutos",
+        "80 minutos"
+      ],
+      "answer":"90 minutos"
+    },
+    {
+      "question":"¿Cómo se llama la zona de hierba rasa donde está ubicado el hoyo en golf?.",
+      "options":[
+        "Green",
+        "Esplanada",
+        "Campo",
+        "Terreno"
+      ],
+      "answer":"Green"
+    },
+    {
+      "question":"¿Cuál de estas frases NO fue dicha por Diego Armando Maradona?.",
+      "options":[
+        "Pelé, debutó con un pibe",
+        "La pelota no dobla",
+        "Segurola y La Habana 4310 7mo piso",
+        "La pelota no se mancha"
+      ],
+      "answer":"La pelota no dobla"
+    },
+    {
+      "question":"¿Cuál de estos pilotos no es de F1?.",
+      "options":[
+        "Richard Petty",
+        "Fernando Alonso",
+        "Sebastian Vettel",
+        "Mark Webber"
+      ],
+      "answer":"Richard Petty"
+    },
+    {
+      "question":"¿A qué tipo de billa se juega con más bolas?.",
+      "options":[
+        "Snooker",
+        "Bola 9",
+        "Billar español",
+        "Billar italiano"
+      ],
+      "answer":"Snooker"
+    },
+    {
+      "question":"¿De qué nacionalidad es el entrenador de fútbol Tata Martino?.",
+      "options":[
+        "Italia",
+        "Argentina",
+        "España",
+        "Brasil"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"¿En cuál de estos deportes no hay árbitro?.",
+      "options":[
+        "Ultimate",
+        "Football",
+        "Basketball",
+        "Volleyball"
+      ],
+      "answer":"Ultimate"
+    },
+    {
+      "question":"¿Cuál es el país de origen del futbolista Lionel Messi?.",
+      "options":[
+        "Argentina",
+        "España",
+        "Brasil",
+        "Chile"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"¿Cómo se llama la cantera del FC Barcelona?.",
+      "options":[
+        "El Chalet",
+        "La Masía",
+        "La Fábrica",
+        "La Depuradora"
+      ],
+      "answer":"La Masía"
+    },
+    {
+      "question":"¿Cuál de los siguientes es un truco de skate?.",
+      "options":[
+        "Mollie",
+        "Ollie",
+        "Clop",
+        "Superclop"
+      ],
+      "answer":"Ollie"
+    },
+    {
+      "question":"Cuando el árbitro de fútbol hace sonar su silbato a los 90 minutos ¿Qué significa?.",
+      "options":[
+        "Medio tiempo",
+        "Finalización del partido",
+        "Falta",
+        "Tarjeta"
+      ],
+      "answer":"Finalización del partido"
+    },
+    {
+      "question":"¿Quién ganó el mundial de fútbol del año 2002?.",
+      "options":[
+        "Italia",
+        "España",
+        "Brasil",
+        "Francia"
+      ],
+      "answer":"Brasil"
+    },
+    {
+      "question":"¿A la selección de rugby de qué país se los conoce como Los Pumas?.",
+      "options":[
+        "Sudáfrica",
+        "Argentina",
+        "Australia",
+        "Gales"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"¿Cómo se llama el estadio del Universidad de Las Palmas?.",
+      "options":[
+        "Pedro Escartín",
+        "Monumental",
+        "Los pajaricos",
+        "Maspalomas"
+      ],
+      "answer":"Maspalomas"
+    },
+    {
+      "question":"¿En cuál de estas situaciones se sacará una bandera amarilla, o incluso roja, en las carreras de coches?.",
+      "options":[
+        "Se ha declarado un ganador",
+        "Un peligro en la pista",
+        "Queda una vuelta",
+        "La carrera va a empezar"
+      ],
+      "answer":"Un peligro en la pista"
+    },
+    {
+      "question":"¿Qué país ganó el Mundial de balonmano en el año 2013?.",
+      "options":[
+        "Francia",
+        "Croacia",
+        "España",
+        "Serbia"
+      ],
+      "answer":"España"
+    },
+    {
+      "question":"¿En cuántos mundiales de fútbol participó la selección de Canadá?.",
+      "options":[
+        "0",
+        "1",
+        "3",
+        "5"
+      ],
+      "answer":"1"
+    },
+    {
+      "question":"¿Dónde se inventó el tenis de mesa?.",
+      "options":[
+        "China",
+        "Japón",
+        "Korea del Sur",
+        "Inglaterra"
+      ],
+      "answer":"Inglaterra"
+    },
+    {
+      "question":"¿Qué jugador francés ha ganado un balón de oro mientras jugaba en Italia?.",
+      "options":[
+        "Zidane",
+        "Platini",
+        "Ribery",
+        "Maradona"
+      ],
+      "answer":"Zidane"
+    },
+    {
+      "question":"¿Qué país es campeón del mundo de balonmano masculino del 2013?.",
+      "options":[
+        "Hungria",
+        "Alemania",
+        "España",
+        "Francia"
+      ],
+      "answer":"España"
+    },
+    {
+      "question":"¿Cómo se llama el primer sueco que jugó en el FC Barcelona?.",
+      "options":[
+        "Zlatan Larsson",
+        "Henrik Ibrahimovic",
+        "Henrik Larsson",
+        "Zlatan Ibrahimovic"
+      ],
+      "answer":"Henrik Larsson"
+    },
+    {
+      "question":"¿De dónde viene el jugador Alexis Sánchez?.",
+      "options":[
+        "India",
+        "España",
+        "Chile",
+        "Moscú"
+      ],
+      "answer":"Chile"
+    },
+    {
+      "question":"¿Con qué sobrenomnre apodó el Presidente de la FIFA a Cristiano Ronaldo?.",
+      "options":[
+        "El Coloso",
+        "El Chulito",
+        "El Comandante",
+        "O Rei"
+      ],
+      "answer":"El Comandante"
+    },
+    {
+      "question":"¿Quién quedó número 1 del mundo de tenis en 2008?.",
+      "options":[
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Carlos Moyá"
+      ],
+      "answer":"Rafael Nadal"
+    },
+    {
+      "question":"¿Cómo se llama el estadio del FCBarcelona?.",
+      "options":[
+        "Santiago Bernabeu",
+        "Camp Nou",
+        "La Masia",
+        "Barcelona Camp"
+      ],
+      "answer":"Camp Nou"
+    },
+    {
+      "question":"¿Quién es el máximo goleador de la selección argentina de fútbol?.",
+      "options":[
+        "Batistuta",
+        "Maradona",
+        "Kempes",
+        "Caniggia"
+      ],
+      "answer":"Batistuta"
+    },
+    {
+      "question":"¿Cuál es el club de fútbol más antiguo de España?.",
+      "options":[
+        "Athletic Club de Bilbao",
+        "F.C. Barcelona",
+        "Real Madrid",
+        "Recreativo de Huelva"
+      ],
+      "answer":"Recreativo de Huelva"
+    },
+    {
+      "question":"¿Cuánto dura un partido de balonmano?.",
+      "options":[
+        "30 minutos",
+        "45 minutos",
+        "60 minutos",
+        "90 minutos"
+      ],
+      "answer":"60 minutos"
+    },
+    {
+      "question":"Si durante una mano de Póker me tocan 3 cartas del mismo valor, ¿qué jugada tengo?",
+      "options":[
+        "Doble Par",
+        "Trio",
+        "Full",
+        "Par"
+      ],
+      "answer":"Trio"
+    },
+    {
+      "question":"¿Con qué apodo fue conocido el velocista Carl Lewis?.",
+      "options":[
+        "El rayo",
+        "La chispa de Birmingham",
+        "La gacela negra",
+        "El hijo del viento"
+      ],
+      "answer":"El hijo del viento"
+    },
+    {
+      "question":"¿Dónde apoyan los jinetes sus pies?.",
+      "options":[
+        "Montura",
+        "Riendas",
+        "Estribos",
+        "Baste"
+      ],
+      "answer":"Estribos"
+    },
+    {
+      "question":"¿Con qué deporte relacionarías a Juan Antonio Flecha?.",
+      "options":[
+        "Piragüismo",
+        "Fútbol",
+        "Atletismo",
+        "Ciclismo"
+      ],
+      "answer":"Ciclismo"
+    },
+    {
+      "question":"¿Qué gimnasta española ha disputado cuatro juegos Olímpicos?.",
+      "options":[
+        "Carolina Rodríguez",
+        "Natalia García",
+        "Julia Usón",
+        "Almudena Cid"
+      ],
+      "answer":"Almudena Cid"
+    },
+    {
+      "question":"¿Qué equipo de fútbol es de Cataluña?.",
+      "options":[
+        "RCD Español",
+        "CE Europa",
+        "FC Barcelona",
+        "Todos son correctos"
+      ],
+      "answer":"Todos son correctos"
+    },
+    {
+      "question":"¿Cómo apodaban a Emilio Butragueño?.",
+      "options":[
+        "El buitre",
+        "El mago",
+        "El halcón",
+        "El picha"
+      ],
+      "answer":"El buitre"
+    },
+    {
+      "question":"¿En qué deporte destacó Joe DiMaggio?.",
+      "options":[
+        "Fútbol",
+        "Boxeo",
+        "Béisbol",
+        "Esquí"
+      ],
+      "answer":"Béisbol"
+    },
+    {
+      "question":"¿Quién ganó cuatro mundiales consecutivos de Fórmula 1?.",
+      "options":[
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Kimi Raikkonen"
+      ],
+      "answer":"Sebastian Vettel"
+    },
+    {
+      "question":"¿Quién preside la UEFA actualmente?.",
+      "options":[
+        "Michel Platini",
+        "David Beckham",
+        "Alex Ferguson",
+        "Ángel María Villar"
+      ],
+      "answer":"Michel Platini"
+    },
+    {
+      "question":"¿Cuántos cuadros tiene un tablero de ajedres?.",
+      "options":[
+        "36",
+        "54",
+        "64",
+        "81"
+      ],
+      "answer":"64"
+    },
+    {
+      "question":"¿Cómo se llama la liga española de balonmano?.",
+      "options":[
+        "Liga Balonmano",
+        "Balonbal",
+        "Abobal",
+        "Asobal"
+      ],
+      "answer":"Asobal"
+    },
+    {
+      "question":"¿A qué jugador de fútbol le apodan ‘El Apache’?.",
+      "options":[
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Sergio Ramos",
+        "Carlos Tévez"
+      ],
+      "answer":"Carlos Tévez"
+    },
+    {
+      "question":"¿Qué país fue el ganador de baloncesto en los Juegos Olímpicos de Londres 2012?.",
+      "options":[
+        "España",
+        "Japón",
+        "Estados Unidos",
+        "Italia"
+      ],
+      "answer":"Estados Unidos"
+    },
+    {
+      "question":"¿Cuál fué el Mundial de fútbol que consagró a Diego Armando Maradona?.",
+      "options":[
+        "Argentina’76",
+        "España’82",
+        "Italia’90",
+        "México’86"
+      ],
+      "answer":"México’86"
+    },
+    {
+      "question":"¿A qué edad ganó su primer mundial de Fórmula 1 el automovilista español Fernando Alonso?.",
+      "options":[
+        "38",
+        "21",
+        "22",
+        "20"
+      ],
+      "answer":"21"
+    },
+    {
+      "question":"¿De qué tipo eran las 3 medallas conseguidas por Usain Bolt en los Juegos Olimpicos de Londres 2012?.",
+      "options":[
+        "Plata ",
+        "Bronce ",
+        "Oro ",
+        "No consiguió ninguna"
+      ],
+      "answer":"Oro"
+    },
+    {
+      "question":"¿Qué numero llevó Raúl en el Real Madrid?. ",
+      "options":[
+        "5",
+        "10",
+        "98",
+        "7"
+      ],
+      "answer":"7"
+    },
+    {
+      "question":"¿Cuál es el segundo apellido de Gerad Piqué ?.",
+      "options":[
+        "Ninguna es correcta ",
+        "Vázquez ",
+        "Sibina",
+        "Bernabeu"
+      ],
+      "answer":"Bernabeu"
+    },
+    {
+      "question":"¿Qué clase de peso en el boxeo está entre el peso gallo y el peso ligero?",
+      "options":[
+        "Peso ideal",
+        "Peso mosca",
+        "Peso pluma",
+        "Sobrepeso"
+      ],
+      "answer":"Peso pluma"
+    },
+    {
+      "question":"¿Cuántas cartas tiene una baraja inglesa?.",
+      "options":[
+        "40",
+        "48 ",
+        "50",
+        "52"
+      ],
+      "answer":"52"
+    },
+    {
+      "question":"¿Dónde nació el Rugby?. ",
+      "options":[
+        "Australia",
+        "Canadá ",
+        "Reino Unido",
+        "Alemania"
+      ],
+      "answer":"Reino Unido"
+    },
+    {
+      "question":"¿Quién es el máximo goleador del FC Barcelona, hasta el 2013?. ",
+      "options":[
+        "Lionel Messi",
+        "César Rodríguez",
+        "Ladislao Kubala",
+        "Samuel Eto’o"
+      ],
+      "answer":"Lionel Messi"
+    },
+    {
+      "question":"¿En qué ciudad sudafricana ganó España su único mundial de fútbol?. ",
+      "options":[
+        "Ciudad del Cabo ",
+        "Johanesburgo ",
+        "Pretoria ",
+        "Bloemfontein"
+      ],
+      "answer":"Johanesburgo "
+    },
+    {
+      "question":"¿En qué año se celebraron los primeros juegos olímpicos de verano , en Atenas?.",
+      "options":[
+        "1896",
+        "1888",
+        "1904",
+        "1932 "
+      ],
+      "answer":"1896"
+    },
+    {
+      "question":"¿Cuántos títulos mundiales posee el motociclista Valentino Rossi?. ",
+      "options":[
+        "Nueve",
+        "Dos ",
+        "Cinco ",
+        "Siete"
+      ],
+      "answer":"Nueve"
+    },
+    {
+      "question":"¿Qué piloto español de Fórmula 1 tiene 2 mundiales ganados en su haber?.",
+      "options":[
+        "Pedro Martínez de la Rosa",
+        "Fernando Alonso",
+        "Felipe Massa ",
+        "Luis Hamilton"
+      ],
+      "answer":"Fernando Alonso"
+    },
+    {
+      "question":"¿A qué ex-jugador del Valencia c.f. se le conocía como ” El Matador”?. ",
+      "options":[
+        "Mario Alberto Kempes",
+        "Gaizka Mendieta",
+        "Claudio Lopez ",
+        "Francisco Camarasa"
+      ],
+      "answer":"Mario Alberto Kempes"
+    },
+    {
+      "question":"¿Cuales son los equipos de fútbol de Sevilla?. ",
+      "options":[
+        "Selliva F.C y Málaga C.F",
+        "R.Betis Balompié y Sevilla F.C",
+        "Cádiz C.F y R.Betis Balompié ",
+        "Málaga C.F y Cádiz C.F"
+      ],
+      "answer":"R.Betis Balompié y Sevilla F.C"
+    },
+    {
+      "question":"¿Quién tiró el segundo disparo más veloz del mundo ?. ",
+      "options":[
+        "Miroslav Klose ",
+        "Roberto Carlos ",
+        "Cristiano Ronaldo ",
+        "Zlatan Ibrahimovic"
+      ],
+      "answer":"Zlatan Ibrahimovic"
+    },
+    {
+      "question":"¿En la década de los 90, la leyenda del fútbol Pelé fue ministro de deportes. ¿En qué país ?. ",
+      "options":[
+        "Francia ",
+        "Italia ",
+        "Brasil ",
+        "México "
+      ],
+      "answer":"Brasil"
+    },
+    {
+      "question":"¿Dónde se disputará el próximo Mundial de Fútbol 2014?. ",
+      "options":[
+        "Brasil ",
+        "Japón ",
+        "Chile",
+        "Portugal"
+      ],
+      "answer":"Brasil"
+    },
+    {
+      "question":"¿Cómo se llama el ex-jugador del F.C Barcelona apellidado Stoichkov?.",
+      "options":[
+        "Risto ",
+        "Hristo ",
+        "Cristo ",
+        "Bristo "
+      ],
+      "answer":"Hristo"
+    },
+    {
+      "question":"¿Cómo apodaban a Alfblacko Di Stéfano?. ",
+      "options":[
+        "La saeta rubia ",
+        "La pulga ",
+        "El minero ",
+        "El crack"
+      ],
+      "answer":"La saeta rubia"
+    },
+    {
+      "question":"¿Qué arte marcial utiliza mayor procentaje de extremidades inferiores?.",
+      "options":[
+        "Taekwondo ",
+        "Judo",
+        "Karate ",
+        "Boxeo"
+      ],
+      "answer":"Taekwondo"
+    },
+    {
+      "question":"¿Cuál es la última cinta en las artes marciales ?.",
+      "options":[
+        "Roja ",
+        "Blanca ",
+        "Café ",
+        "Negra  "
+      ],
+      "answer":"Negra"
+    },
+    {
+      "question":"¿Quién ganó dos veces tres campeonatos consecutivamente en la NBA?.",
+      "options":[
+        "Michael Jordan ",
+        "Lebron James ",
+        "Brian Scalabrine",
+        "Bill Russel"
+      ],
+      "answer":"Michael Jordan"
+    }
+  ]
+}

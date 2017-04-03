@@ -1,0 +1,895 @@
+{
+  "name":"Entretenimiento",
+  "questions":[
+    {
+      "question":"¿Qué premiada serie de televisión tiene como protagonista a un publicista?",
+      "options":[
+        "Mad Men",
+        "Shameless",
+        "Juego de Tronos",
+        "Downton Abbey"
+      ],
+      "answer":"Mad Men"
+    },
+    {
+      "question":"¿Como se llamaba la protagonista femenina de la serie de televisión,“Scrubs”?",
+      "options":[
+        "Elliot",
+        "Sarah",
+        "Jordan",
+        "Molly"
+      ],
+      "answer":"Elliot"
+    },
+    {
+      "question":"¿Cómo se llamaba el personaje que interpretaba John Travolta en “Grease”?",
+      "options":[
+        "Danny Puño",
+        "Danny Zuko",
+        "Danny Grease",
+        "Danny Chulo"
+      ],
+      "answer":"Danny Zuko"
+    },
+    {
+      "question":"¿En qué año se estrenó la película de Disney “Pinocho”?",
+      "options":[
+        "1940",
+        "1950",
+        "1952",
+        "1946"
+      ],
+      "answer":"1940"
+    },
+    {
+      "question":"¿En qué país nació la Bauhaus?",
+      "options":[
+        "Alemania",
+        "Holanda",
+        "Rusia",
+        "Estados Unidos"
+      ],
+      "answer":"Alemania"
+    },
+    {
+      "question":"Arroz con leche me quiero casar con una señorita de…",
+      "options":[
+        "San Nicolás",
+        "San Martin",
+        "San Justo",
+        "San José"
+      ],
+      "answer":"San Nicolás"
+    },
+    {
+      "question":"¿Qué director de cine norteamericano aterrorizó a los Estados Unidos con su adaptación radiofónica de “La guerra de los mundos”?",
+      "options":[
+        "Alfblack Hitchcock",
+        "Orson Welles",
+        "Stanley Kubrik",
+        "Sergio Leone"
+      ],
+      "answer":"Orson Welles"
+    },
+    {
+      "question":"¿Cuál es el verdadero nombre de Alejandro Sanz?",
+      "options":[
+        "Alejandro Sánchez Pizarro",
+        "Alejandro Sánchez Gutiérrez",
+        "Alexander Santiago Seguiz",
+        "Alejandro Alberto Sanzón"
+      ],
+      "answer":"Alejandro Sánchez Pizarro"
+    },
+    {
+      "question":"¿Qué personaje famoso lidera la banda llamada Nancys Rubias?",
+      "options":[
+        "Nacho Canut",
+        "Alaska",
+        "Mario Vaquerizo",
+        "Nacho Vidal"
+      ],
+      "answer":"Mario Vaquerizo"
+    },
+    {
+      "question":"¿Quién es la mascota de SEGA?",
+      "options":[
+        "Sonic",
+        "Mario",
+        "Pac Man",
+        "Ryu"
+      ],
+      "answer":"Sonic"
+    },
+    {
+      "question":"¿Cuántos premios Grammy ha ganado Britney Spears?",
+      "options":[
+        "Uno",
+        "Dos",
+        "Tres",
+        "Ninguno"
+      ],
+      "answer":"Uno"
+    },
+    {
+      "question":"¿Quién es Bella en la saga “Crepúsculo”?",
+      "options":[
+        "Kristen Stewart",
+        "Cristina Ricci",
+        "Emma Watson",
+        "Dakota Fanning"
+      ],
+      "answer":"Kristen Stewart"
+    },
+    {
+      "question":"¿Como se llaman dos intimas amigas de la serie de televisión “Gossip Girl” que siempre discuten y se traicionan?",
+      "options":[
+        "Bair y Jenny",
+        "Blair y Vanessa",
+        "Serena y Blair",
+        "Serena y Vanessa"
+      ],
+      "answer":"Serena y Blair"
+    },
+    {
+      "question":"¿Quién dirigió la película “Los lunes al sol”?",
+      "options":[
+        "Fernando León de Aranoa",
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "José Luis Garcia"
+      ],
+      "answer":"Fernando León de Aranoa"
+    },
+    {
+      "question":"¿Cómo se llamaba el personaje que interpretaba Al Pacino en “Scarface”?",
+      "options":[
+        "Sonny Montana",
+        "Tony Montana",
+        "Michael Corleone",
+        "Frank Slade"
+      ],
+      "answer":"Tony Montana"
+    },
+    {
+      "question":"¿Cuál es considerado por los fans el peor juego de la historia de ATARI?",
+      "options":[
+        "Tetris",
+        "ET",
+        "Combat",
+        "Galaxian"
+      ],
+      "answer":"ET"
+    },
+    {
+      "question":"¿Por cuál de estas películas ganó Clint Eastwood el premio Oscar al mejor director?",
+      "options":[
+        "Million Dollar Baby",
+        "Cartas desde Iwo Jima",
+        "Mystic River",
+        "Los puentes de Madison"
+      ],
+      "answer":"Los puentes de Madison"
+    },
+    {
+      "question":"¿A qué película de Disney pertenece la canción “Un mundo ideal”?",
+      "options":[
+        "Aladdín",
+        "Pocahontas",
+        "Mulán",
+        "Hércules"
+      ],
+      "answer":"Aladdín"
+    },
+    {
+      "question":"¿De qué nacionalidad es la cantante Fey?",
+      "options":[
+        "Austriaca",
+        "Mexicana",
+        "Estadounidense",
+        "Panameña"
+      ],
+      "answer":"Mexicana"
+    },
+    {
+      "question":"¿Cómo se llamó el álbum en directo que publicaron Joan Manuel Serrat y Joaquín Sabina, el primero en conjunto?",
+      "options":[
+        "La orquesta del Titanic",
+        "En el Luna Park",
+        "Dos pájaros de un tiro",
+        "Dos pájaron contraatacan"
+      ],
+      "answer":"Dos pájaros de un tiro"
+    },
+    {
+      "question":"¿Qué actor rechazó el papel de Michael Corleone en la película “El Padrino”, finalmente interpretado por Al Pacino?",
+      "options":[
+        "Jack Nicholson",
+        "Anthony Hopkins",
+        "Robert DeNiro",
+        "Ninguna es correcta"
+      ],
+      "answer":"Jack Nicholson"
+    },
+    {
+      "question":"¿Qué actor interpretaba a “Hache” en la película 3MSC?",
+      "options":[
+        "Hugo Silva",
+        "Miguel Angel Silvestre",
+        "Dani Martín",
+        "Mario Casas"
+      ],
+      "answer":"Mario Casas"
+    },
+    {
+      "question":"¿A qué hace referencia ‘La milla verde’?",
+      "options":[
+        "A un prado cercano",
+        "A una carrera",
+        "Al corblackor de la muerte",
+        "A la cárcel"
+      ],
+      "answer":"Al corblackor de la muerte"
+    },
+    {
+      "question":"¿Cómo se llama el protagonista de la saga Indiana Jones?",
+      "options":[
+        "Jack Nicholson",
+        "Michael Fox",
+        "Harrison Ford",
+        "Robin Williams"
+      ],
+      "answer":"Harrison Ford"
+    },
+    {
+      "question":"¿Cuál es el nombre de pila del presentador de televisión apodado como el Gran Wyoming?",
+      "options":[
+        "José Miguel Navarro Monzón",
+        "Miguel José Navarro Monzón",
+        "José Miguel Monzón Navarro",
+        "Miguel José Monzón Navarro"
+      ],
+      "answer":"José Miguel Monzón Navarro"
+    },
+    {
+      "question":"¿ Qué animal es la mascota de Jazmín en Aladdin?",
+      "options":[
+        "Elefante",
+        "Tigre",
+        "Mono",
+        "Serpiente"
+      ],
+      "answer":"Tigre"
+    },
+    {
+      "question":"¿Quién interpreta la canción “Baby One More Time “?",
+      "options":[
+        "Madonna",
+        "Montserrat Caballé",
+        "Lady Gaga",
+        "Britney Spears"
+      ],
+      "answer":"Britney Spears"
+    },
+    {
+      "question":"¿Cuál de ellas es una cantante española?",
+      "options":[
+        "Chenoa",
+        "Ariana Grande",
+        "Jennifer Lopez",
+        "Alaska"
+      ],
+      "answer":"Chenoa"
+    },
+    {
+      "question":"¿A quién se considera el Rey del Pop?",
+      "options":[
+        "Justin Bieber",
+        "Michael Jackson",
+        "Zayn Malik",
+        "Zac Efron"
+      ],
+      "answer":"Michael Jackson"
+    },
+    {
+      "question":"¿Cuál es el verdadero nombre de “El Arrebato”?",
+      "options":[
+        "Carlos Morean",
+        "Miguel Rios",
+        "Francisco Javier Labandón Pérez",
+        "Jorge Moreno"
+      ],
+      "answer":"Francisco Javier Labandón Pérez "
+    },
+    {
+      "question":"¿Qué personaje del videojuego Mortal Kombat tiene poderes de hielo?",
+      "options":[
+        "Sub-Zero",
+        "Scorpion",
+        "Reptile",
+        "Motaro"
+      ],
+      "answer":"Sub-Zero"
+    },
+    {
+      "question":"¿Qué actriz sale en “La mano que mece la cuna”?",
+      "options":[
+        "Scarlett Johansson",
+        "Vanessa Paradis",
+        "Milla Jovovich",
+        "Rebecca de Mornay"
+      ],
+      "answer":"Rebecca de Mornay"
+    },
+    {
+      "question":"¿Qué día es San Valentín?",
+      "options":[
+        "14 de Marzo",
+        "15 de Febrero",
+        "14 de Febrero",
+        "15 de Marzo"
+      ],
+      "answer":"14 de Febrero"
+    },
+    {
+      "question":"¿Cómo se llama el actor protagonista de ” Solo en casa”?",
+      "options":[
+        "Macaulay Culkin",
+        "Keanu Reeves",
+        "Johnny Depp",
+        "Leonardo DiCaprio"
+      ],
+      "answer":"Macaulay Culkin"
+    },
+    {
+      "question":"¿Cómo se llama la actriz que protagoniza ¡Carly?",
+      "options":[
+        "Victoria Justice",
+        "Miranda Cosgrove",
+        "Jennette McCurdy",
+        "Keke Palmer"
+      ],
+      "answer":"Miranda Cosgrove"
+    },
+    {
+      "question":"¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+      "options":[
+        "Lechuza",
+        "Sinsajo",
+        "Gale",
+        "Llamas"
+      ],
+      "answer":"Sinsajo"
+    },
+    {
+      "question":"¿Qué grupo cómico dobló al español a los protagonistas de “Shrek”?",
+      "options":[
+        "Martes y 13",
+        "Tip y Coll",
+        "Cruz y Raya",
+        "Los Morancos"
+      ],
+      "answer":"Cruz y Raya"
+    },
+    {
+      "question":"¿Cómo se llama el musical que estrenó en 2013 el grupo Hombres G?",
+      "options":[
+        "Sufre Mamom",
+        "Marta tiene un Marcapasos",
+        "Visite Nuestro Bar",
+        "Las Chicas Cocodrilo"
+      ],
+      "answer":"Marta tiene un Marcapasos "
+    },
+    {
+      "question":"¿Quién canta ”Vivir mi vida”?",
+      "options":[
+        "Pitbull",
+        "Marc Anthony",
+        "Jay Z",
+        "Chris Brown"
+      ],
+      "answer":"Marc Anthony"
+    },
+    {
+      "question":"¿Qué personaje de Disney perdió su zapato de cristal?",
+      "options":[
+        "Tiana",
+        "Blancanieves",
+        "La Sirenita",
+        "Cenicienta"
+      ],
+      "answer":"Cenicienta"
+    },
+    {
+      "question":"¿De dónde era la cantante Rocío Jurado?",
+      "options":[
+        "Sevilla",
+        "Málaga",
+        "Huelva",
+        "Cádiz"
+      ],
+      "answer":"Cádiz"
+    },
+    {
+      "question":"¿Cómo se llama el marido de la Cuqui en ” La que se avecina”?",
+      "options":[
+        "Antonio Recio",
+        "Amador Rivas",
+        "Sergio Arias",
+        "Enrique Pastor"
+      ],
+      "answer":"Amador Rivas "
+    },
+    {
+      "question":"¿Cuál es la cantante que publicó en 2008 el albúm “Hard  Candy”?",
+      "options":[
+        "Britney Spears",
+        "Madonna",
+        "Rihanna",
+        "Shakira"
+      ],
+      "answer":"Madonna"
+    },
+    {
+      "question":"¿Cuántos colores tiene un cubo de Rubik clásico?",
+      "options":[
+        "4",
+        "6",
+        "8",
+        "9"
+      ],
+      "answer":"6"
+    },
+    {
+      "question":"¿Qué concurso presentó Ramoncín?",
+      "options":[
+        "Saber y Ganar",
+        "Lingo",
+        "Pasapalabra",
+        "Canta un poquito"
+      ],
+      "answer":"Lingo "
+    },
+    {
+      "question":"¿Cuál es el nombre de Paul McCartney ?",
+      "options":[
+        "Paul James McCartney",
+        "Sir Paul MacCartney",
+        "James Paul McCartney",
+        "Paul McCartney Suer"
+      ],
+      "answer":"James Paul McCartney"
+    },
+    {
+      "question":"¿Cuál es la discográfica destintiva de la música soul?",
+      "options":[
+        "Atlantic",
+        "Sony music",
+        "EMI",
+        "BMG Music"
+      ],
+      "answer":"Atlantic"
+    },
+    {
+      "question":"¿Cómo se llama la serie de dibujos animados en la que sale un gato cósmico del siglo XXI?",
+      "options":[
+        "Doraemon",
+        "Bob Esponja",
+        "Las tortugas ninja",
+        "Las Supernenas"
+      ],
+      "answer":"Doraemon"
+    },
+    {
+      "question":"¿En que época quedo ciego Stevie Wonder?",
+      "options":[
+        "En los 60’s",
+        "En la infancia",
+        "En los 70’s",
+        "En los 80’s"
+      ],
+      "answer":"En la infancia"
+    },
+    {
+      "question":"¿Qué actor ha hecho más películas como James Bond?",
+      "options":[
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Daniel Craig",
+        "Roger Moore"
+      ],
+      "answer":"Roger Moore "
+    },
+    {
+      "question":"¿Cuál de las siguientes películas NO fue dirigida por los hermanos Coen?",
+      "options":[
+        "Arizona Baby",
+        "Fargo",
+        "Barton Fink",
+        "Four Rooms"
+      ],
+      "answer":"Four Rooms"
+    },
+    {
+      "question":"¿Qué banda de Heavy Metal lanzó un disco de colaboración con el recientemente fallecido Lou Reed?",
+      "options":[
+        "Metálica",
+        "Megadeth",
+        "Slayer",
+        "Machine Head"
+      ],
+      "answer":"Metálica"
+    },
+    {
+      "question":"¿Qué Beatle fue asesinado por un fan?",
+      "options":[
+        "George Harrison",
+        "Ringo Star",
+        "Ninguno",
+        "Jonh Lennon"
+      ],
+      "answer":"Jonh Lennon"
+    },
+    {
+      "question":"¿Cómo se llama el robot alcohólico de la serie ‘Futurama’?",
+      "options":[
+        "Zoidberg",
+        "Bender",
+        "Leela",
+        "Hubert"
+      ],
+      "answer":"Bender"
+    },
+    {
+      "question":"¿De qué distrito es Katniss de Los juegos del hambre?",
+      "options":[
+        "Distrito 3",
+        "Distrito 8",
+        "Distrito 12",
+        "Distrito 11"
+      ],
+      "answer":"Distrito 12"
+    },
+    {
+      "question":"¿Rowan Atkinson es famoso por el personaje llamado…",
+      "options":[
+        "Benjamin Button",
+        "Mr.Bean",
+        "El sombrerero loco",
+        "Link"
+      ],
+      "answer":"Mr.Bean "
+    },
+    {
+      "question":"¿Cómo se llama el personaje que interpreta Mario Casas en la serie “El Barco”?",
+      "options":[
+        "Mario",
+        "Palomares",
+        "Piti",
+        "Ulises"
+      ],
+      "answer":"Ulises "
+    },
+    {
+      "question":"¿Qué grupo ha sido precursor del género Flamenco Chill?",
+      "options":[
+        "Chambao",
+        "Azúcar Moreno",
+        "Mojinos Escozíos",
+        "La Quinta Estación"
+      ],
+      "answer":"Chambao"
+    },
+    {
+      "question":"¿Qué grupo interpretaba la canción ” Smells like teen spirit “?",
+      "options":[
+        "Los Beatles",
+        "Led Zeppelin",
+        "Nirvana",
+        "Los Rolling Stones"
+      ],
+      "answer":"Nirvana"
+    },
+    {
+      "question":"¿Cómo se llama el payaso de ‘Los Simpson’?",
+      "options":[
+        "Krusty",
+        "Kristy",
+        "Kris",
+        "Kroger"
+      ],
+      "answer":"Krusty"
+    },
+    {
+      "question":"¿Qué actriz hace un desnudo de su brazo en ‘Gilda ‘?",
+      "options":[
+        "Katharine Hepburn",
+        "Rita Hayworth",
+        "Elizabeth Taylor",
+        "Marilyn Monroe"
+      ],
+      "answer":"Rita Hayworth"
+    },
+    {
+      "question":"¿Cuándo comenzó a emitirse Gran Hermano en España ?",
+      "options":[
+        "1998",
+        "2000",
+        "2001",
+        "2003"
+      ],
+      "answer":"2000"
+    },
+    {
+      "question":"¿Cuál es la famosa película de Audrey Hepburn donde salía una conocida joyería ?",
+      "options":[
+        "Ninguna es correcta",
+        "Vestida de gala",
+        "Princesas",
+        "Desayuno con Diamantes"
+      ],
+      "answer":"Desayuno con Diamantes "
+    },
+    {
+      "question":"¿De qué famosa película de Disney es el personaje Jafar ?",
+      "options":[
+        "Aladdin",
+        "El Rey León",
+        "Kris",
+        "Kroger"
+      ],
+      "answer":"Aladdin"
+    },
+    {
+      "question":"¿En que banda canta Anthony Kiedis ?",
+      "options":[
+        "Aerosmith",
+        "Radiohead",
+        "Metalica",
+        "black Hot Chili Peppers"
+      ],
+      "answer":"black Hot Chili Peppers"
+    },
+    {
+      "question":"¿Cómo se llama el personaje de ‘ Hellraiser’ que tiene clavos en la cara ?",
+      "options":[
+        "No tiene nombre",
+        "Arbusto",
+        "Pinhead",
+        "Pinchoman"
+      ],
+      "answer":"Pinhead"
+    },
+    {
+      "question":"¿Cuál fue el primer festival de rock gratuito en durar más de 3 días en 1969?",
+      "options":[
+        "Glastonbury",
+        "Woodstock",
+        "Love parade",
+        "Reading"
+      ],
+      "answer":"Woodstock"
+    },
+    {
+      "question":"¿Cómo se llama el pájaro símbolo de los Juegos del Hambre?",
+      "options":[
+        "Lechuza",
+        "Sinsajo",
+        "Gale",
+        "Llamas"
+      ],
+      "answer":"Sinsajo"
+    },
+    {
+      "question":"¿Quién es el profesor del colegio Hogwarts que se convierte en Hombre lobo?",
+      "options":[
+        "Remus Lupin",
+        "Romulus Lupin",
+        "James Potter",
+        "Subill Trelawney"
+      ],
+      "answer":"Remus Lupin"
+    },
+    {
+      "question":"¿A qué se dedica el personaje led Mosby de  ‘Como conocí a vuestra madre?",
+      "options":[
+        "Abogado",
+        "Arquitecto",
+        "Publicista",
+        "Periodista"
+      ],
+      "answer":"Arquitecto "
+    },
+    {
+      "question":"¿Qué integrante de The Beatles falleció en 2001?",
+      "options":[
+        "George Harrison",
+        "John Lennon",
+        "Paul Mc Cartney",
+        "Ringo Starr"
+      ],
+      "answer":"George Harrison "
+    },
+    {
+      "question":"¿Alblackedor de qué ciudad se encontraba la ‘Ruta del Bakalao’?",
+      "options":[
+        "Madrid",
+        "Valencia",
+        "Alicante",
+        "Barcelona"
+      ],
+      "answer":"Valencia "
+    },
+    {
+      "question":"¿In which of the Harry Potter books does Voldemort recover his body?",
+      "options":[
+        "Harry Potter and the Goblet of Fire",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Order of the Phoenix",
+        "Harry Potter and the Sorcerer’s Stone"
+      ],
+      "answer":"Harry Potter and the Goblet of Fire"
+    },
+    {
+      "question":"¿Quién es Mario Casas ?",
+      "options":[
+        "Un actor",
+        "Un científico",
+        "Un futbolísta",
+        "Un político"
+      ],
+      "answer":"Un actor "
+    },
+    {
+      "question":"¿Dónde se celebra el festival de música ” Alhambra Sound “?",
+      "options":[
+        "Sevilla",
+        "Granada",
+        "Cordoba",
+        "Madrid"
+      ],
+      "answer":"Granada"
+    },
+    {
+      "question":"¿Quién protagonizo la pelicula “Descubriendo nunca jamás”?",
+      "options":[
+        "Brad Pitt",
+        "Johnny Deep",
+        "Leonardo Dicaprio",
+        "Paul Walker"
+      ],
+      "answer":"Johnny Deep"
+    },
+    {
+      "question":"¿Con qué grupo comenzó a tener éxito Eric Clapton?",
+      "options":[
+        "The Yardbirds",
+        "The Eagles",
+        "Lynyrd Skynyrd",
+        "The Beatles"
+      ],
+      "answer":"The Yardbirds"
+    },
+    {
+      "question":"¿Cuántos capítulos tiene la serie de televisión ‘Friends?",
+      "options":[
+        "133",
+        "236",
+        "310",
+        "94"
+      ],
+      "answer":"236"
+    },
+    {
+      "question":"¿Cómo se llama el primer hijo de Goku de Dragon Ball?",
+      "options":[
+        "Goten",
+        "Trunks",
+        "Gohan",
+        "Vegetta"
+      ],
+      "answer":"Gohan"
+    },
+    {
+      "question":"¿De donde proviene el reggae?",
+      "options":[
+        "Cuba",
+        "Haití",
+        "Jamaica",
+        "República Dominicana"
+      ],
+      "answer":"Jamaica"
+    },
+    {
+      "question":"¿Cómo se llama la bebé de Los Simpsons?",
+      "options":[
+        "Maggie",
+        "Marge",
+        "Lisa",
+        "Magi"
+      ],
+      "answer":"Maggie"
+    },
+    {
+      "question":"¿Cómo se llama la princesa de Disney conocida como “La Sirenita”?",
+      "options":[
+        "Ariel",
+        "Aurora",
+        "Estrella",
+        "Mar"
+      ],
+      "answer":"Ariel "
+    },
+    {
+      "question":"¿Qué cantante hizo una aparición en el medio tiempo del Superbowl 2014?",
+      "options":[
+        "Justin Bieber",
+        "Bruno Mars",
+        "Rihanna",
+        "Luciano Pavarotti"
+      ],
+      "answer":"Bruno Mars"
+    },
+    {
+      "question":"¿Quién se hizo famoso,gracias a su frase “que hay de nuevo viejo”?",
+      "options":[
+        "Bugs bunny",
+        "Piolin",
+        "El Correcaminos",
+        "El pato Lucas"
+      ],
+      "answer":"Bugs bunny"
+    },
+    {
+      "question":"¿Qué famoso actor norteamericano fue el primer marido de Lauren Bacall?",
+      "options":[
+        "Humphrey Bogart",
+        "Clark Gable",
+        "James Stewart",
+        "Morgan Freeman"
+      ],
+      "answer":"Humphrey Bogart"
+    },
+    {
+      "question":"¿Qué actor protagonizó la película “Grease”?",
+      "options":[
+        "Barry Gibb",
+        "Tom Cruise",
+        "Jonh Travolta",
+        "Kevin Costner"
+      ],
+      "answer":"Jonh Travolta"
+    },
+    {
+      "question":"¿A qué familia pertenece Dobby,el elfo doméstico en la historia de Harry Potter?",
+      "options":[
+        "Weasley",
+        "Potter",
+        "Malfoy",
+        "Black"
+      ],
+      "answer":"Malfoy"
+    },
+    {
+      "question":"¿En qué año se fundó The Walt Disney Company?",
+      "options":[
+        "1972",
+        "2000",
+        "1984",
+        "1923"
+      ],
+      "answer":"1923"
+    },
+    {
+      "question":"¿Qué personaje histórico interpreta Daniel Day-Lewis en una película de Steven Spielberg?",
+      "options":[
+        "Buda",
+        "George Washington",
+        "Abraham Lincoln",
+        "John F.Kennedy"
+      ],
+      "answer":"Abraham Lincoln"
+    }
+  ]
+}

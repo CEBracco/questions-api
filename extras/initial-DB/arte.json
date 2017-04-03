@@ -1,0 +1,915 @@
+{
+  "name":"Arte",
+  "questions":[
+    {
+      "question":"¿Cuál era la nacionalidad de Heri Cartier-Bresson, considerado por muchos el padre del fotoreportaje",
+      "options":[
+        "Británica",
+        "Española",
+        "Alemana",
+        "Francesa"
+      ],
+      "answer":"Francesa"
+    },
+    {
+      "question":"¿Quién pintó el cuado “El jardín de las delicias”?",
+      "options":[
+        "El Bosco",
+        "Carvaggio",
+        "Velázquez",
+        "Arcimboldo"
+      ],
+      "answer":"El Bosco"
+    },
+    {
+      "question":"¿Qué ciudades describe Italo Calvino en “Las ciudades invisibles”?",
+      "options":[
+        "Ciudades asiáticas",
+        "Las que Marco Polo visitó en sus viajes",
+        "Ciudades europeas",
+        "Ciudades imaginadas por Marco Polo"
+      ],
+      "answer":"Ciudades imaginadas por Marco Polo"
+    },
+    {
+      "question":"¿Cuál es la ciudad fetiche del escritor Paul Auster?",
+      "options":[
+        "Nueva York",
+        "Londres",
+        "París",
+        "Chicago"
+      ],
+      "answer":"Nueva York"
+    },
+    {
+      "question":"¿Quién escribió “El viejo y el mar?",
+      "options":[
+        "Ernest Hemingway",
+        "Norman Mailer",
+        "Gabriel García Márquez",
+        "Truman Capote"
+      ],
+      "answer":"Ernest Hemingway"
+    },
+    {
+      "question":"¿Quién vivía en el 221B de Backer Street?",
+      "options":[
+        "Sherlock Holmes",
+        "Truman Capote",
+        "Philip Marlowe",
+        "Arthur Conan Doyle"
+      ],
+      "answer":"Sherlock Holmes"
+    },
+    {
+      "question":"¿Qué fotografía, sobre todo, Anne Geddes?",
+      "options":[
+        "Famosos",
+        "Farolas",
+        "Bebés",
+        "Palomas"
+      ],
+      "answer":"Bebés"
+    },
+    {
+      "question":"¿A qué género pertenece la novela “La historia del ojo” de George Bataille?",
+      "options":[
+        "Ciencia-ficción",
+        "Negro",
+        "Romántico",
+        "Erótico"
+      ],
+      "answer":"Erótico"
+    },
+    {
+      "question":"¿Cuál de los siguientes artistas es una figura clave del dadaísmo y el surrealismo?",
+      "options":[
+        "Max Ernst",
+        "Claude Monet",
+        "Vincent Van Gogh",
+        "Rafael"
+      ],
+      "answer":"Max Ernst"
+    },
+    {
+      "question":"¿Qué profesión tenía Hércules Poiriot en las novelas de Agatha Christie?",
+      "options":[
+        "Policía",
+        "Médico",
+        "Detective",
+        "Paul Verlaine"
+      ],
+      "answer":"Detective"
+    },
+    {
+      "question":"¿Quién es el autor de la obra teatral “Casa de Muñecas”?",
+      "options":[
+        "Henrik Ibsen",
+        "Isaac Asimov",
+        "Émile Zola",
+        "Sigrid Undset"
+      ],
+      "answer":"Henrik Ibsen"
+    },
+    {
+      "question":"¿Qué cosa perdida buscaba Marcel Proust?",
+      "options":[
+        "El amor",
+        "La fortuna",
+        "La existencia",
+        "El tiempo"
+      ],
+      "answer":"El tiempo"
+    },
+    {
+      "question":"¿Donde muere el padre del niño protagonista de la novela “Tan fuerte, tan cerca” de Jonathan Safran-Foer?",
+      "options":[
+        "En los atentados del World Trade Center",
+        "En la guerra de Vietnam",
+        "En la guerra de Irak",
+        "En un accidente de coche"
+      ],
+      "answer":"En los atentados del World Trade Center"
+    },
+    {
+      "question":"¿Qué era Le Chat Noir, el establecimiento que anunciaban los carteles el famoso gato negro de París?",
+      "options":[
+        "Un restaurante",
+        "Un cine",
+        "Una biblioteca",
+        "Un cabaret"
+      ],
+      "answer":"Un cabaret"
+    },
+    {
+      "question":" Los amantes de Teruel…",
+      "options":[
+        "Viajaban en carrusel",
+        "Tonta ella y tonto él",
+        "Vivían en un burdel",
+        "Existieron en papel"
+      ],
+      "answer":"Tonta ella y tonto él"
+    },
+    {
+      "question":"¿Quién escribió “El túnel”?",
+      "options":[
+        "Ernesto Sabato",
+        "Gabrial García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges"
+      ],
+      "answer":"Ernesto Sabato"
+    },
+    {
+      "question":"¿Quién es el autor de “El retrato de Dorian Gray”?",
+      "options":[
+        "Oscar Wilde",
+        "Charles Dickens",
+        "Arthur Conan Doyle",
+        "George Orwell"
+      ],
+      "answer":"Oscar Wilde"
+    },
+    {
+      "question":"¿Quién es el autor de “Moby Dick”?",
+      "options":[
+        "Herman Melville",
+        "Henry David Thoreau",
+        "Ralph Waldo Emerson",
+        "Henry James"
+      ],
+      "answer":"Herman Melville"
+    },
+    {
+      "question":"¿Qué editorial ha publicado los dos últimos libros del humorista y escritor Miguel Noguera?",
+      "options":[
+        "Mondadori",
+        "Alpha Decay",
+        "Blackie Books",
+        "Planeta"
+      ],
+      "answer":"Blackie Books"
+    },
+    {
+      "question":"¿Quién introdujo la lira en la lírica española?",
+      "options":[
+        "Garcilaso de la Vega",
+        "Luis de Góngora",
+        "Lope de Vega",
+        "Miguel de Cervantes"
+      ],
+      "answer":"Garcilaso de la Vega"
+    },
+    {
+      "question":"¿Cómo se llama el protagonista de “El código Da Vinci” de Dan Brown?",
+      "options":[
+        "Robert Langdom",
+        "Tom Hanks",
+        "Mr. White",
+        "Robert Black"
+      ],
+      "answer":"Robert Langdom"
+    },
+    {
+      "question":"¿Cuál fue el género más cultivado por los autores de la generación del 27?",
+      "options":[
+        "Ensayo",
+        "Poesía",
+        "Teatro",
+        "Novela"
+      ],
+      "answer":"Poesía"
+    },
+    {
+      "question":"¿Qué describe una prosopografía?",
+      "options":[
+        "El físico de una persona",
+        "El carácter de una persona",
+        "El fisico y el carácter de una persona",
+        "Caricaturiza a una persona"
+      ],
+      "answer":"El físico de una persona"
+    },
+    {
+      "question":"¿Qué escritor español firmaba como Fígaro?",
+      "options":[
+        "Federico García Lorca",
+        "Antonio Machado",
+        "Francisco de Quevedo",
+        "Mariano José de Larra"
+      ],
+      "answer":"Mariano José de Larra"
+    },
+    {
+      "question":"¿A dónde pertenece la colección de relatos folklóricos llamada Mabinogion?",
+      "options":[
+        "Inglaterra",
+        "Irlanda",
+        "Gales",
+        "Escocia"
+      ],
+      "answer":"Gales"
+    },
+    {
+      "question":"¿Quién escribió la música del himno de la Comunidad de Valencia?",
+      "options":[
+        "Maximiliano Thous Orts",
+        "Manuel de Falla Matheu",
+        "José Iturbi Baguena",
+        "José Serrano Simeón"
+      ],
+      "answer":"José Serrano Simeón"
+    },
+    {
+      "question":"¿A qué obra pertenece este fragmento: ‘No es verdad, ángel de amor, que en esta apartada orilla…’?",
+      "options":[
+        "Don Juan Tenorio",
+        "Fígaro",
+        "Fausto",
+        "Quijote"
+      ],
+      "answer":"Don Juan Tenorio"
+    },
+    {
+      "question":"¿En qué siglo nació el artista conocido como Caravaggio?",
+      "options":[
+        "XIV",
+        "XII",
+        "XVI",
+        "XVIII"
+      ],
+      "answer":"XVI"
+    },
+    {
+      "question":"¿Cómo se llama a la gente que no posee magia en la saga de Harry Potter?",
+      "options":[
+        "Humano",
+        "Simplón",
+        "Impuro",
+        "Muggles"
+      ],
+      "answer":"Muggles"
+    },
+    {
+      "question":"¿Qué obra de mármol de Miguel Ángel se encuentra en la Basílica de San Pedro?",
+      "options":[
+        "Moisés",
+        "La Piedad",
+        "Capilla Sixtina",
+        "David"
+      ],
+      "answer":"La Piedad"
+    },
+    {
+      "question":" Gato con guantes…",
+      "options":[
+        "Y con botas",
+        "No rasca bigotes",
+        "No caza ratones",
+        "No corre al trote"
+      ],
+      "answer":"No caza ratones"
+    },
+    {
+      "question":"¿Qué forma es característica de las plantas de las iglesias románicas?",
+      "options":[
+        "Óvalo",
+        "Rectángulo",
+        "Cruz",
+        "Cuadrado"
+      ],
+      "answer":"Cruz"
+    },
+    {
+      "question":" La autoría de la pintua ‘El Coloso’ se ha puesto muy en duda en los últimos años. ¿A quién se le atribuye tradicionalmente?",
+      "options":[
+        "Velázquez",
+        "Goya",
+        "Sorolla",
+        "Quevedo"
+      ],
+      "answer":"Goya"
+    },
+    {
+      "question":"¿Qué odia Mafalda?",
+      "options":[
+        "El Pájaro Loco",
+        "La sopa",
+        "Los panqueques",
+        "A Manolito"
+      ],
+      "answer":"La sopa"
+    },
+    {
+      "question":"¿A qué pintor pertenece la obra ‘Serpientes de agua’?",
+      "options":[
+        "Gustave Klimt",
+        "Vicent Van Gogh",
+        "Pablo Picasso",
+        "Roger Van der Weiden"
+      ],
+      "answer":"Gustave Klimt"
+    },
+    {
+      "question":" Arroz con leche me quiero…",
+      "options":[
+        "Escapar",
+        "Matar",
+        "Cazar",
+        "Casar"
+      ],
+      "answer":"Casar"
+    },
+    {
+      "question":"¿En qué está esculpida la Venus de MIlo?",
+      "options":[
+        "Mármol",
+        "Bronce",
+        "Piedra",
+        "Madera"
+      ],
+      "answer":"Mármol"
+    },
+    {
+      "question":"¿Quién fue Antonio Lucio Vivaldi?",
+      "options":[
+        "Guitarrista Clásico",
+        "Tenor de Opera",
+        "Violinista y Compositor del Barroco",
+        "Clavesista Italiano"
+      ],
+      "answer":"Violinista y Compositor del Barroco"
+    },
+    {
+      "question":"¿Quién hizo la obra “La vida es sueño”?",
+      "options":[
+        "Miguel de Cervantes",
+        "Feliz Lope de Vega",
+        "Calderón de la Barca",
+        "Tirso de Molina"
+      ],
+      "answer":"Calderón de la Barca"
+    },
+    {
+      "question":"¿Quién pintó La Capilla Sixtina?",
+      "options":[
+        "Giorgio Vasari",
+        "Leonardo Da Vinci",
+        "Miguel Ángel",
+        "Tiziano"
+      ],
+      "answer":"Miguel Ángel"
+    },
+    {
+      "question":"¿Qué filósofo dijo ‘solo sé que no sé nada’?",
+      "options":[
+        "Heráclito",
+        "Platón",
+        "Sócrates",
+        "Tales de Mileto"
+      ],
+      "answer":"Sócrates"
+    },
+    {
+      "question":"¿Quién es la autora de “Los Juegos del Hambre”?",
+      "options":[
+        "Blue Jeans",
+        "Suzanne Collins",
+        "Jordi Sierra i Fabra",
+        "Bono Bidari"
+      ],
+      "answer":"Suzanne Collins"
+    },
+    {
+      "question":"¿Quién es la autor del libro “El gato negro y otros cuentos de terror”?",
+      "options":[
+        "Edgar Allan Poe",
+        "Manuel Broncano",
+        "Julio-César Santoyo",
+        "Jesús Gabán"
+      ],
+      "answer":"Edgar Allan Poe"
+    },
+    {
+      "question":"¿De qué siglo es representativo el arte mozárabe?",
+      "options":[
+        "IIX",
+        "V",
+        "X",
+        "XIX"
+      ],
+      "answer":"X"
+    },
+    {
+      "question":"¿A quién está dedicada la torre más alta de la Sagrada Familia de Gaudí, aún pendiente de construcción?",
+      "options":[
+        "La Virgen María",
+        "El Espiritú Santo",
+        "Jesucristo",
+        "La Sagrada Familia"
+      ],
+      "answer":"Jesucristo"
+    },
+    {
+      "question":"¿Cómo despertó el principe a la Bella Durmiente?",
+      "options":[
+        "Tocando palmas",
+        "Acariciándola",
+        "Besándola",
+        "Gritándole"
+      ],
+      "answer":"Besándola"
+    },
+    {
+      "question":"¿Quién compuso la famosa canción “Bohemian Rhapsody?",
+      "options":[
+        "John Lennon",
+        "Elton John",
+        "Fblackdie Mercury",
+        "David Bowie"
+      ],
+      "answer":"Fblackdie Mercury"
+    },
+    {
+      "question":"¿Quién pintó ‘Idas y venidas. La Martinica’?",
+      "options":[
+        "Paul Cézanne",
+        "Paul Gauguin",
+        "Pablo Picasso",
+        "Velázquez"
+      ],
+      "answer":"Paul Gauguin"
+    },
+    {
+      "question":"¿Qué famosa artista estaba casada con su colega, Diego Rivera?",
+      "options":[
+        "María Antonieta",
+        "Frida Kahlo",
+        "Frida Alejandra",
+        "Antonieta"
+      ],
+      "answer":"Frida Kahlo"
+    },
+    {
+      "question":"¿Qué artista expuso un orinal con el título ‘La fuente’?",
+      "options":[
+        "Andy Warhol",
+        "Marcel Duchamp",
+        "Pablo Picasso",
+        "Salvador Dalí"
+      ],
+      "answer":"Marcel Duchamp"
+    },
+    {
+      "question":"¿Qué poeta escribió ‘A galopar’?",
+      "options":[
+        "Rafael Alberti",
+        "Lope de Vega",
+        "Antonio Machado",
+        "Federico García Lorca"
+      ],
+      "answer":"Rafael Alberti"
+    },
+    {
+      "question":"¿Con que filme el director Alfonso Cuarón ganó un premio Oscar 2014?",
+      "options":[
+        "Gravity",
+        "Brave",
+        "Iron Man 3",
+        "The Lady in Number 6"
+      ],
+      "answer":"Gravity"
+    },
+    {
+      "question":"¿Quién es el autor de “El principito”?",
+      "options":[
+        "Cuahutemoc Sanchez",
+        "Antoine de Saint-Exupery",
+        "Beatriz Espejo",
+        "Ninguna es correcta"
+      ],
+      "answer":"Antoine de Saint-Exupery"
+    },
+    {
+      "question":"¿De qué estilo artístico es la catedral de Santa María de Toledo?| Literatu",
+      "options":[
+        "Gótico",
+        "Románico",
+        "Barroco",
+        "Ninguno"
+      ],
+      "answer":"Gótico"
+    },
+    {
+      "question":"¿Quién escribió ‘Don Juan Tenorio’?",
+      "options":[
+        "Camilo José Cela",
+        "Espronceda",
+        "García-Lorca",
+        "José Zorrilla"
+      ],
+      "answer":"José Zorrilla"
+    },
+    {
+      "question":"¿Con qué pseudónimo se conocía al escritor José Martínez Ruiz ?|",
+      "options":[
+        "Unamuno",
+        "Ruiseñor",
+        "Azorín",
+        "Carrillo"
+      ],
+      "answer":"Azorín"
+    },
+    {
+      "question":"¿Quén escribió el poema cuyo inicio es “Pegasos, lindos Pegasos, caballitos de madera”?|",
+      "options":[
+        "Rafael Alberti",
+        "Antonio Machado",
+        "Pablo Neruda",
+        "Federico García Lorca"
+      ],
+      "answer":"Antonio Machado"
+    },
+    {
+      "question":"¿Dónde nació Shakespeare?",
+      "options":[
+        "Albacete",
+        "Surrey",
+        "New Castle",
+        "Stratford-upon-Avon"
+      ],
+      "answer":"Stratford-upon-Avon"
+    },
+    {
+      "question":"¿Cuál es el género teatral intermedio entre la comedia y la tragedia ?",
+      "options":[
+        "Drama",
+        "Zarzuela",
+        "Entremés",
+        "Farsa"
+      ],
+      "answer":"Drama"
+    },
+    {
+      "question":"¿Qué ingeniero y arquitecto valenciano contruyó el puente del Alamillo de Sevilla ?|",
+      "options":[
+        "Gaudí",
+        "Calatrava",
+        "Moneo",
+        "Villanueva"
+      ],
+      "answer":"Calatrava"
+    },
+    {
+      "question":"¿Quién es el autor del libro “Once minutos”?",
+      "options":[
+        "Paulo Coelho",
+        "Pablo Neruda",
+        "Ana María Matute",
+        "Gabriel Garcia Marquez"
+      ],
+      "answer":"Paulo Coelho"
+    },
+    {
+      "question":"¿De qué material está hecho un saxofón ?",
+      "options":[
+        "Cobre",
+        "Hierro",
+        "Latón",
+        "Acero"
+      ],
+      "answer":"Latón"
+    },
+    {
+      "question":"¿Quién pintó el famoso cuadro de pop art ‘ Latas de sopa Campbell ‘?",
+      "options":[
+        "Kurt Schwitters",
+        "Laurence Mills",
+        "Andy Warhol",
+        "Vicent van Gogh"
+      ],
+      "answer":"Andy Warhol"
+    },
+    {
+      "question":"¿Quién es el autor de la novela ‘Crimen y Castigo ‘?",
+      "options":[
+        "León Tolstói",
+        "Fiódor Dostoyevski",
+        "Antón Chéjov",
+        "Vladimir Navokov"
+      ],
+      "answer":"Fiódor Dostoyevski"
+    },
+    {
+      "question":"¿Quién es el autor de “La Celestina”?",
+      "options":[
+        "Jorge Manrique",
+        "Fernando de Rojas",
+        "Miguel de Cervantes",
+        "Anónima"
+      ],
+      "answer":"Fernando de Rojas"
+    },
+    {
+      "question":"¿Qué profesión tenía Hércules Poirot en las novelas de Agatha Christie?",
+      "options":[
+        "Policía",
+        "Médico",
+        "Detective",
+        "Bombero"
+      ],
+      "answer":"Detective"
+    },
+    {
+      "question":"¿Qué animal son los polacos en la novela gráfica sobre el Holocausto nazi ‘Maus’ ?",
+      "options":[
+        "Ratones",
+        "Gatos",
+        "Cerdos",
+        "Perros"
+      ],
+      "answer":"Cerdos"
+    },
+    {
+      "question":"¿Quién escribió ‘ El modulor’?",
+      "options":[
+        "Aristófanes",
+        "Le Corbusier",
+        "Le Curant",
+        "Tom Jones"
+      ],
+      "answer":"Le Corbusier"
+    },
+    {
+      "question":"¿A qué músico argentino lo apodaban ” El Flaco” ?",
+      "options":[
+        "Gustavo Cerati",
+        "Carlos Alberto García",
+        "Luis Alberto Spinetta",
+        "Carlos Solari"
+      ],
+      "answer":"Luis Alberto Spinetta"
+    },
+    {
+      "question":"¿Cómo se llama el arte japones de la papiroflexia?|",
+      "options":[
+        "Haiku",
+        "Ikebana",
+        "Origami",
+        "Ukiyo-e"
+      ],
+      "answer":"Origami"
+    },
+    {
+      "question":"¿Quién dirigió la película ” Lo Que El Viento Se Llevó “?",
+      "options":[
+        "Victor Fleming",
+        "Alfblack Hitchcock",
+        "Orson Walles",
+        "Clark Gable"
+      ],
+      "answer":"Victor Fleming"
+    },
+    {
+      "question":"¿De dónde era Diego Velázquez",
+      "options":[
+        "Madrid",
+        "Murcia",
+        "Sevilla",
+        "Toledo"
+      ],
+      "answer":"Sevilla"
+    },
+    {
+      "question":"¿Quién es el autor de ” 20 poemas de amor y una canción desesperada”?",
+      "options":[
+        "Amado Nervo",
+        "Eduardo Mitre",
+        "Pablo Neruda",
+        "Nicanor Parra"
+      ],
+      "answer":"Pablo Neruda"
+    },
+    {
+      "question":"¿Quién escribió la trilogía “Los Juegos del Hambre”?",
+      "options":[
+        "Stephenie Meyer",
+        "Rick Riordan",
+        "John Green",
+        "Suzanne Collins"
+      ],
+      "answer":"Suzanne Collins"
+    },
+    {
+      "question":"¿Quién es el guitarrista de la banda de rock ” Chickenfoot”?",
+      "options":[
+        "Joe Satriani",
+        "Steve Vai",
+        "Slash",
+        "Nuno Bettencourt"
+      ],
+      "answer":"Joe Satriani"
+    },
+    {
+      "question":"¿Quién se comió a Garbancito según el cuento popular",
+      "options":[
+        "Un Buey",
+        "Un gigante",
+        "Una ballena",
+        "Un lobo"
+      ],
+      "answer":"Un Buey"
+    },
+    {
+      "question":"¿Cuál es la autora de ” Lo que el viento se llevó”",
+      "options":[
+        "Maruja Torres",
+        "Jane Austen",
+        "Emily Broté",
+        "Margaret Mitchell"
+      ],
+      "answer":"Margaret Mitchell"
+    },
+    {
+      "question":"¿Quién escribió ” Abaddón el Exterminador”",
+      "options":[
+        "Gabriel García Márquez",
+        "José Luis Borges",
+        "Ernesto Sabato",
+        "Mario Vargas Llosa"
+      ],
+      "answer":"Ernesto Sabato"
+    },
+    {
+      "question":"¿Con qué nombre pasó la historia Michelangelo Merisi",
+      "options":[
+        "Miguel Ángel",
+        "Caravaggio",
+        "Da Vinci",
+        "Masaccio"
+      ],
+      "answer":"Caravaggio"
+    },
+    {
+      "question":"¿Cómo se llama el perro de Obélix?",
+      "options":[
+        "Panoramix",
+        "Ideafix",
+        "Milú",
+        "Indiofix"
+      ],
+      "answer":"Ideafix"
+    },
+    {
+      "question":"¿A qué generación pertenece García Lorca?",
+      "options":[
+        "De 2001",
+        "Del 27",
+        "Siglo de oro",
+        "Ninguna"
+      ],
+      "answer":"Del 27"
+    },
+    {
+      "question":"¿Cuántos capítulos tiene el Corán?",
+      "options":[
+        "60",
+        "114",
+        "25",
+        "120"
+      ],
+      "answer":"114"
+    },
+    {
+      "question":"¿Dónde podemos ver el museo Domus?",
+      "options":[
+        "Madrid",
+        "San Sebastián",
+        "La Coruña",
+        "Murcia"
+      ],
+      "answer":"La Coruña"
+    },
+    {
+      "question":"¿Quén es el autor de “El amor en los tiempos de cólera”?",
+      "options":[
+        "Carlos Cuahutemoc Sánchez",
+        "Og Mandino",
+        "Julio Verne",
+        "Gabriel García Márquez"
+      ],
+      "answer":"Gabriel García Márquez"
+    },
+    {
+      "question":"¿Con qué escritor del Siglo de Oro estuvo enfrentado Luis de Góngora?",
+      "options":[
+        "Calderón de la Barca",
+        "Rosalía de Castro",
+        "Lope de Vega",
+        "Quevedo"
+      ],
+      "answer":"Quevedo"
+    },
+    {
+      "question":"¿Quién escribió la novela “María”?",
+      "options":[
+        "Mario Vargas Llosa",
+        "Gabriel García Márquez",
+        "Jorge Isaacs",
+        "Isabel Allende"
+      ],
+      "answer":"Jorge Isaacs"
+    },
+    {
+      "question":"¿Cómo se llama la restauradora del Ecce Homo de Borja?",
+      "options":[
+        "Lucía Giménez Sueco",
+        "María Giménez Sueco",
+        "Cecilia Giménez Sueco",
+        "Celia Giménez Sueco"
+      ],
+      "answer":"Cecilia Giménez Sueco"
+    },
+    {
+      "question":"¿Qué animal quería ser domesticado por El Principito?",
+      "options":[
+        "Un perro",
+        "Un zorro",
+        "Un gato",
+        "Un lobo"
+      ],
+      "answer":"Un zorro"
+    },
+    {
+      "question":"¿Qué artista aparece retratado en “Las Meninas”?",
+      "options":[
+        "Velázquez",
+        "Miguel Ángel",
+        "Sorolla",
+        "Goya"
+      ],
+      "answer":"Velázquez"
+    },
+    {
+      "question":"¿De qué novela de Fiodor M. Dostoyevski es protagonista Raskolnikov?",
+      "options":[
+        "Los Demonios",
+        "El Idiota",
+        "El Jugador",
+        "Crimen y Castigo"
+      ],
+      "answer":"Crimen y Castigo"
+    },
+    {
+      "question":"¿Una fábula es un cuento que finaliza con una enseñanza que se llama…",
+      "options":[
+        "Poesía",
+        "Refrán",
+        "Moraleja",
+        "Adivinanza"
+      ],
+      "answer":"Moraleja"
+    }
+  ]
+}

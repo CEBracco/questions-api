@@ -1,0 +1,1785 @@
+{
+  "name":"Ciencia",
+  "questions":[
+    {
+      "question":"¿Cuál de las sisguientes enfermedades ataca al higado?",
+      "options":[
+        "Hepatitis",
+        "Diabetes",
+        "Artrósis",
+        "Cifoescoliosis"
+      ],
+      "answer":"Hepatitis"
+    },
+    {
+      "question":"¿Cómo tomarías la sustancia alucinógena natural llamada ayahuasca?",
+      "options":[
+        "Inhalada",
+        "Esnifada",
+        "Inyectada",
+        "Ingerida"
+      ],
+      "answer":"Ingerida"
+    },
+    {
+      "question":"¿Cuál es la función principal del instestino grueso?",
+      "options":[
+        "La absorción de nutrientes",
+        "La digestión mecánica de los a#1FC868ntos",
+        "La absorción de agua",
+        "La digestión química de a#1FC868ntos"
+      ],
+      "answer":"La absorción de agua"
+    },
+    {
+      "question":"¿Qué hay en la boca del estómago?",
+      "options":[
+        "El píloro",
+        "El cardías",
+        "Los ácidos gástricos",
+        "El epilón mayor"
+      ],
+      "answer":"El cardías"
+    },
+    {
+      "question":"¿Qué cambio de estado ocurre en la sublimación?",
+      "options":[
+        "De sólido a líquido",
+        "De sólido a gaseoso",
+        "De gaseoso a líquido",
+        "De líquido a solido"
+      ],
+      "answer":"De sólido a gaseoso"
+    },
+    {
+      "question":"¿Qué órgano del cuerpo humano produce la bilis?",
+      "options":[
+        "Hígado",
+        "Páncreas",
+        "Intestino delgado",
+        "Riñon"
+      ],
+      "answer":"Hígado"
+    },
+    {
+      "question":"¿De qué color es la sange de los peces?",
+      "options":[
+        "Verde oscuro",
+        "Marrón oscuro",
+        "Rojo",
+        "Azul"
+      ],
+      "answer":"Rojo"
+    },
+    {
+      "question":"¿Cuál de los siguientes órganos NO es parte del sistema inmunológico?",
+      "options":[
+        "Esófago",
+        "Médula ósea",
+        "Bazo",
+        "Timo"
+      ],
+      "answer":"Esófago"
+    },
+    {
+      "question":"¿De donde de saca la sacarina?",
+      "options":[
+        "Del aceite de girasol",
+        "Del azúcar",
+        "Del carbón",
+        "Del azufre"
+      ],
+      "answer":"Del carbón"
+    },
+    {
+      "question":"¿Cuántas caras tiene un icosaedro?",
+      "options":[
+        "20",
+        "16",
+        "8",
+        "24"
+      ],
+      "answer":"20"
+    },
+    {
+      "question":"¿Qué contiene el cactus llamado peyote?",
+      "options":[
+        "LSD",
+        "MDMA",
+        "Salvia",
+        "Mescalina"
+      ],
+      "answer":"Mescalina"
+    },
+    {
+      "question":"¿Qué se altera cuando nos damos un golpe en la cabeza que nos hace “ver las estrellas”?",
+      "options":[
+        "El hipotálamo",
+        "El bulbo raquídeo",
+        "La pituitaria",
+        "El nervio óptico"
+      ],
+      "answer":"El nervio óptico"
+    },
+    {
+      "question":"¿Cuál es el cérvido de mayor tamaño?",
+      "options":[
+        "El alce",
+        "El corzo",
+        "El ciervo",
+        "El pudu"
+      ],
+      "answer":"El alce"
+    },
+    {
+      "question":"¿Qué es el calostro?",
+      "options":[
+        "Un hueso de la espina dorsal",
+        "Una hormona",
+        "Una parte del intestino grueso",
+        "La primera leche materna"
+      ],
+      "answer":"La primera leche materna"
+    },
+    {
+      "question":"¿Cuál es el hueso más pequeño del cuerpo?",
+      "options":[
+        "El yunque",
+        "La falange",
+        "El estribo",
+        "Ninguna es correcta"
+      ],
+      "answer":"El estribo"
+    },
+    {
+      "question":"¿Dónde vive el delfín rosado?",
+      "options":[
+        "En Brasil",
+        "En Oceanía",
+        "Solo en aguas cálidas",
+        "Solo en aguas muy frías"
+      ],
+      "answer":"En Brasil"
+    },
+    {
+      "question":"¿Qué estudia la icitología?",
+      "options":[
+        "Los insectos",
+        "Las erupciones cutáneas",
+        "Las rocas",
+        "Los peces"
+      ],
+      "answer":"Los peces"
+    },
+    {
+      "question":"¿Cuál es el mamífero más grande conocido hasta la actualidad?",
+      "options":[
+        "Ballena Azul",
+        "Cachalote",
+        "Elefante",
+        "Rinoceronte"
+      ],
+      "answer":"Ballena Azul"
+    },
+    {
+      "question":"¿Qué es un equino?",
+      "options":[
+        "Una vaca",
+        "Un antílope",
+        "Una oveja",
+        "Un caballo"
+      ],
+      "answer":"Un caballo"
+    },
+    {
+      "question":"¿Qué causa furor en Internet?",
+      "options":[
+        "Los ratones",
+        "Los gatos",
+        "Los gansos",
+        "Los cangrejos"
+      ],
+      "answer":"Los gatos"
+    },
+    {
+      "question":"¿Con qué otro nombre se conoce el ciclo del agua?",
+      "options":[
+        "Ciclo natural",
+        "Ciclo hidropónico",
+        "Ciclo hidrológico",
+        "Ciclo acuoso"
+      ],
+      "answer":"Ciclo hidrológico"
+    },
+    {
+      "question":"¿En qué parte del cuerpo tienen rayas el okapi?",
+      "options":[
+        "La cabeza",
+        "El torso",
+        "Las patas",
+        "No tiene rayas"
+      ],
+      "answer":"Las patas"
+    },
+    {
+      "question":"¿Cuántas cavidades estomacales tiene una vaca?",
+      "options":[
+        "Una",
+        "Dos",
+        "Tres",
+        "Cuatro"
+      ],
+      "answer":"Cuatro"
+    },
+    {
+      "question":"¿Por qué los cocodrilos mantienen la boca abierta durante largo rato?",
+      "options":[
+        "Para calentarse",
+        "Para hacer la digestión",
+        "Para beber agua",
+        "Por si se cuela algo que puedan comerse"
+      ],
+      "answer":"Para calentarse"
+    },
+    {
+      "question":"¿Donde están los meniscos?",
+      "options":[
+        "En las rodillas",
+        "En los codos",
+        "En la punta del pie",
+        "En el peroné"
+      ],
+      "answer":"En las rodillas"
+    },
+    {
+      "question":"¿Qué función cumplen los bigotes del gato?",
+      "options":[
+        "Son un órgano táctil",
+        "Son un órgano auditivo",
+        "Son un órgano olfativo",
+        "Son de adorno"
+      ],
+      "answer":"Son un órgano táctil"
+    },
+    {
+      "question":"¿Qué hace la cochinilla de la humedad si la tocamos?",
+      "options":[
+        "Pica",
+        "Corre",
+        "Se muere",
+        "Se enrolla"
+      ],
+      "answer":"Se enrolla"
+    },
+    {
+      "question":"¿Qué es lo que transforma la leche en yogur?",
+      "options":[
+        "Un virus",
+        "Un musgo",
+        "Una bacteria",
+        "El tiempo"
+      ],
+      "answer":"Una bacteria"
+    },
+    {
+      "question":"¿Con qué abren las ostras las nutrias de mar?",
+      "options":[
+        "Con un palo",
+        "Con los dientes",
+        "Con una piedra",
+        "Con las uñas"
+      ],
+      "answer":"Con una piedra"
+    },
+    {
+      "question":"¿Qué tipo de mamífero es un conejo?",
+      "options":[
+        "Roedor",
+        "Lagomorfo",
+        "Marsupial",
+        "Equino"
+      ],
+      "answer":"Lagomorfo"
+    },
+    {
+      "question":"¿Cuántos rayos gamma hay en una neurona?",
+      "options":[
+        "Uno",
+        "Dos",
+        "De dos a tres",
+        "Ninguno"
+      ],
+      "answer":"Ninguno"
+    },
+    {
+      "question":"¿Qué es Plutón?",
+      "options":[
+        "Un satélite",
+        "Un planeta",
+        "Un plutoide",
+        "Ninguna es correcta"
+      ],
+      "answer":"Un planeta"
+    },
+    {
+      "question":"¿En qué lugar del cuerpo se produce la insulina?",
+      "options":[
+        "Páncreas",
+        "Hígado",
+        "Intestino",
+        "Riñon"
+      ],
+      "answer":"Páncreas"
+    },
+    {
+      "question":"¿Cómo se llama a los electrones que se encuentran en la última capa del átomo?",
+      "options":[
+        "Isotopos",
+        "Iones",
+        "Electrones",
+        "Electrones de valencia"
+      ],
+      "answer":"Electrones de valencia"
+    },
+    {
+      "question":"¿Cómo se llama a la sensibilidad dolorosa de los sonidos?",
+      "options":[
+        "Hipocusia",
+        "Hiperacusia",
+        "Micropsia",
+        "Hipoalgesia"
+      ],
+      "answer":"Hiperacusia"
+    },
+    {
+      "question":"¿Cuál de estas blackes sociales es de ámbito laboral?",
+      "options":[
+        "Facebook",
+        "Tuenti",
+        "Jobfire",
+        "LinkedIn"
+      ],
+      "answer":"LinkedIn"
+    },
+    {
+      "question":"¿Cómo se llama la parte de la estructura de una cúpula que la sostiene?",
+      "options":[
+        "Nervaduras",
+        "Contrafuerte",
+        "Tambor",
+        "Ninguna"
+      ],
+      "answer":"Tambor"
+    },
+    {
+      "question":"¿Cómo se llama el nivel más alto de la marea?",
+      "options":[
+        "Pleamar",
+        "Bajamar",
+        "Repunte",
+        "Estacionario"
+      ],
+      "answer":"Pleamar"
+    },
+    {
+      "question":"¿Como debería estar una persona para que le fuera practicada una autopsia?",
+      "options":[
+        "Sedada",
+        "En coma",
+        "Muerta",
+        "Dormida"
+      ],
+      "answer":"Muerta"
+    },
+    {
+      "question":"¿Con que parte del cuerpo hacen el zumbido las abejas?",
+      "options":[
+        "Con las patas",
+        "Con las alas",
+        "Con la boca",
+        "Con las antenas"
+      ],
+      "answer":"Con las alas"
+    },
+    {
+      "question":"¿Cómo se llama el incremento en el volumen,fluidez o frecuencia de las deposiciones?",
+      "options":[
+        "Estreñimiento",
+        "Diverticulosis",
+        "Hemorroides",
+        "Diarrea"
+      ],
+      "answer":"Diarrea"
+    },
+    {
+      "question":"¿Cómo se mide la fuerza del viento en el mar?",
+      "options":[
+        "Pies",
+        "Nudos",
+        "Zancadas",
+        "Kilómetros por hora"
+      ],
+      "answer":"Nudos"
+    },
+    {
+      "question":"¿Cuál es el órgano que tiene como única función el placer?",
+      "options":[
+        "Clítoris",
+        "Vulva",
+        "Pene",
+        "Testículos"
+      ],
+      "answer":"Clítoris"
+    },
+    {
+      "question":"¿Qué droga de diseño,también conocida como MDMA, es análoga a la metanfetamina?",
+      "options":[
+        "Polvo de ángel",
+        "Crack",
+        "Éxtasis",
+        "Popper"
+      ],
+      "answer":"Éxtasis"
+    },
+    {
+      "question":"¿Qué son las enzimas?",
+      "options":[
+        "Células",
+        "Glúcidos",
+        "Hadas",
+        "Proteínas"
+      ],
+      "answer":"Proteínas"
+    },
+    {
+      "question":"¿Con qué suele arreglarse un diente con caries?",
+      "options":[
+        "Extrayéndolo",
+        "Empaste",
+        "Limpieza bucal",
+        "Ortodoncia"
+      ],
+      "answer":"Empaste"
+    },
+    {
+      "question":"¿Cuál es la ciencia que estudia la aplicación de la informática y las comunicaciones al hogar?",
+      "options":[
+        "Robótica",
+        "Domótica",
+        "Casática",
+        "Autología"
+      ],
+      "answer":"Domótica"
+    },
+    {
+      "question":"¿Qué es el gavial (Gavialis gangeticus)?",
+      "options":[
+        "Cocodrilo",
+        "Hipopótamo",
+        "Serpiente",
+        "Tiburón"
+      ],
+      "answer":"Cocodrilo"
+    },
+    {
+      "question":"¿Qué sonido hace un elefante?",
+      "options":[
+        "Brugen",
+        "Gruñen",
+        "Baritan",
+        "Gritan"
+      ],
+      "answer":"Baritan"
+    },
+    {
+      "question":"¿Cuál es la fórmula química del agua?",
+      "options":[
+        "HO",
+        "HO2",
+        "H2O",
+        "Agu"
+      ],
+      "answer":"H2O"
+    },
+    {
+      "question":"¿Cuál es el símbolo de Bromo?",
+      "options":[
+        "No es un elemento,es un compuesto",
+        "B",
+        "Br",
+        "Bh"
+      ],
+      "answer":"Br"
+    },
+    {
+      "question":"¿Cuáles son los efectos de la prolactina?",
+      "options":[
+        "Crecimiento del cabello",
+        "Ayuda al parto",
+        "Producción de leche",
+        "Ninguna de las anteriores"
+      ],
+      "answer":"Producción de leche"
+    },
+    {
+      "question":"¿Qué compuesto químico es el componente activo de los pimientos picantes?",
+      "options":[
+        "Capsaicina",
+        "Celobiosa",
+        "Galactosa",
+        "Glucosa"
+      ],
+      "answer":"Capsaicina"
+    },
+    {
+      "question":"¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+      "options":[
+        "En el  brazo",
+        "En el tobillo",
+        "En la espalda",
+        "En la rodilla"
+      ],
+      "answer":"En el tobillo"
+    },
+    {
+      "question":"¿Cuál es el símbolo del Sodio?",
+      "options":[
+        "Mn",
+        "Li",
+        "Na",
+        "Au"
+      ],
+      "answer":"Na"
+    },
+    {
+      "question":"¿Cuál es el nombre común del ácido ascórbico?",
+      "options":[
+        "Ácido cítrico",
+        "Vitamina C",
+        "Vitamina B6",
+        "Vitamina B12"
+      ],
+      "answer":"Vitamina C"
+    },
+    {
+      "question":"¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+      "options":[
+        "CineTube",
+        "Glooge",
+        "VideoTube",
+        "YouTube"
+      ],
+      "answer":"YouTube"
+    },
+    {
+      "question":"¿Qué sustancias se liberan en una combustión completa?",
+      "options":[
+        "Monóxido de carbono y agua",
+        "Carbono,oxígeno y agua",
+        "Dióxido de carbono y agua",
+        "Solamente agua"
+      ],
+      "answer":"Dióxido de carbono y agua"
+    },
+    {
+      "question":"¿Cómo se llama el sistema operativo con el que trabajan los teléfonos HTC,LG,Samsung?",
+      "options":[
+        "iOS",
+        "Microsoft",
+        "Windows",
+        "Android"
+      ],
+      "answer":"Android"
+    },
+    {
+      "question":"¿Qué tipo de músculos realizan los movimientos voluntarios?",
+      "options":[
+        "Estriados",
+        "Lisos",
+        "Gordos",
+        "Gruesos"
+      ],
+      "answer":"Estriados"
+    },
+    {
+      "question":"¿Qué son los “julios”?",
+      "options":[
+        "Magnitud para el calor del sol",
+        "Magnitud de la energía,trabajo y calor",
+        "El mes más frío del invierno",
+        "El mes más caluroso del verano"
+      ],
+      "answer":"Magnitud de la energía,trabajo y calor"
+    },
+    {
+      "question":"¿Cuál es la raíz cuadrada del 169?",
+      "options":[
+        "15",
+        "14",
+        "13",
+        "17"
+      ],
+      "answer":"13"
+    },
+    {
+      "question":"¿De cuál de estas plantas se extrae la marihuana?",
+      "options":[
+        "Violeta africana",
+        "Girasol",
+        "Cannabis",
+        "Amapola"
+      ],
+      "answer":"Cannabis"
+    },
+    {
+      "question":"¿Cuál es el mineral más duro del planeta?",
+      "options":[
+        "Adamantio",
+        "Cuarzo",
+        "Diamante",
+        "Mármol"
+      ],
+      "answer":"Diamante"
+    },
+    {
+      "question":"¿Qué dedo del pie tiene generalmente la uña más grande?",
+      "options":[
+        "Dedo Anular",
+        "Dedo Meñique",
+        "Dedo Gordo",
+        "Dedo Indice"
+      ],
+      "answer":"Dedo Gordo"
+    },
+    {
+      "question":"¿Cuál es la fuente de energía más utilizada en la actualidad?",
+      "options":[
+        "Petróleo",
+        "Carbón",
+        "Biomasa",
+        "Energía nuclear"
+      ],
+      "answer":"Petróleo"
+    },
+    {
+      "question":"¿Qué sustancia libera el Sistema Parasimpático?",
+      "options":[
+        "Adrenalina",
+        "Noradrenalina",
+        "Acetilcolina",
+        "Serotonina"
+      ],
+      "answer":"Acetilcolina"
+    },
+    {
+      "question":"¿Que hueso se encuentra en el pene de la mayoría de mamíferos?",
+      "options":[
+        "Peniforme",
+        "Pitoideo",
+        "Báculo",
+        "Ninguno"
+      ],
+      "answer":"Báculo"
+    },
+    {
+      "question":"¿Qué marca creó en 2007 el primer iPhone?",
+      "options":[
+        "Apple",
+        "Nokia",
+        "Android",
+        "Mac"
+      ],
+      "answer":"Apple"
+    },
+    {
+      "question":"¿Cuántos lóbulos tiene la glándula tiroides?",
+      "options":[
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer":"2"
+    },
+    {
+      "question":"¿Qué nombre recibe la persona que no tiene melanina en los melanocitos de la piel?",
+      "options":[
+        "Albina",
+        "Despigmentada",
+        "Amelanínica",
+        "Hipomelanínica"
+      ],
+      "answer":"Albina"
+    },
+    {
+      "question":"¿Qué metal es líquido a temperatura ambiente?",
+      "options":[
+        "Mercurio",
+        "Hierro",
+        "Wolframio",
+        "Niquel"
+      ],
+      "answer":"Mercurio"
+    },
+    {
+      "question":"¿Cómo se denomina la ciencia que estudia la naturaleza,las leyes y distribución de fenómenos meteorológicos?",
+      "options":[
+        "Biología",
+        "Meteorología",
+        "Fenomenología",
+        "Tiempología"
+      ],
+      "answer":"Meteorología"
+    },
+    {
+      "question":"¿Que se opera en una rinoplastia?",
+      "options":[
+        "El pecho",
+        "La nariz",
+        "Liposucción",
+        "Plasta de rinoceronte"
+      ],
+      "answer":"La nariz"
+    },
+    {
+      "question":"¿Cuál es el contrario de la palabra “digital”?",
+      "options":[
+        "Analógico",
+        "Dactiloscópico",
+        "Entendido",
+        "Técnico"
+      ],
+      "answer":"Analógico"
+    },
+    {
+      "question":"¿Cuántos son los dientes de leche?",
+      "options":[
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "answer":"20"
+    },
+    {
+      "question":"¿Cuánto pesa aproximadamente un bebé elefante al nacer?",
+      "options":[
+        "Entre 120 y 150 kilos",
+        "Entre 70 y 100 kilos",
+        "Entre 50 y 70 kilos",
+        "Entre 100 y 120 kilos"
+      ],
+      "answer":"Entre 70 y 100 kilos"
+    },
+    {
+      "question":"¿Cuál de los siguientes nombres de compuestos representa al TNT?",
+      "options":[
+        "Trinitrobenceno",
+        "Trinitrofenol",
+        "Trinitroglicerina",
+        "Trinitrotolueno"
+      ],
+      "answer":"Trinitrotolueno"
+    },
+    {
+      "question":"¿Cómo se llama el trastorno alimentario donde la pérdida de apetito es causada por un miedo morboso a la obesidad?",
+      "options":[
+        "Anorexia",
+        "Bulimia",
+        "Megarexia",
+        "Vigorexia"
+      ],
+      "answer":"Anorexia"
+    },
+    {
+      "question":"¿Para que sirve la prueba del carbono 14?",
+      "options":[
+        "Calcular los quilates del oro",
+        "Deducir la edad de un material",
+        "Calcular los electrones de un átomo",
+        "Galvanizar un metal"
+      ],
+      "answer":"Deducir la edad de un material"
+    },
+    {
+      "question":"¿Qué animal representa al Sistema Operativo Linux?",
+      "options":[
+        "León",
+        "Panda",
+        "Pingüino",
+        "Leopardo"
+      ],
+      "answer":"Pingüino"
+    },
+    {
+      "question":"¿Qué son los triglicéridos?",
+      "options":[
+        "Lípidos",
+        "Glúcidos",
+        "Proteínas",
+        "Vitaminas"
+      ],
+      "answer":"Lípidos"
+    },
+    {
+      "question":"¿Qué es la hemofobia?",
+      "options":[
+        "Ninguna es correcta",
+        "Miedo al agua",
+        "Miedo a las alturas",
+        "Miedo a la sangre"
+      ],
+      "answer":"Miedo a la sangre"
+    },
+    {
+      "question":"¿Cuál es el nombre del compuesto cuya formula es H2SO4?",
+      "options":[
+        "Ácido sulfuroso",
+        "Ácido sulfúrico",
+        "Ácido sulfhídrico",
+        "Anhídrido sulfuroso"
+      ],
+      "answer":"Ácido sulfúrico"
+    },
+    {
+      "question":"¿Qué líquido almacenan los cactus?",
+      "options":[
+        "Savia",
+        "Agua",
+        "Vino",
+        "Néctar"
+      ],
+      "answer":"Agua"
+    },
+    {
+      "question":"¿El músculo que realiza una función contraria a otro es su…",
+      "options":[
+        "Agonista",
+        "Ipsilateral",
+        "Antagonista",
+        "Contralateral"
+      ],
+      "answer":"Antagonista"
+    },
+    {
+      "question":"¿Cuál es la combinación de las teclas que copia texto en un PC?",
+      "options":[
+        "ctrl + p",
+        "ctrl + c",
+        "ctrl + q",
+        "ctrl + v"
+      ],
+      "answer":"ctrl + c"
+    },
+    {
+      "question":"¿Qué significa ARN?",
+      "options":[
+        "Ácido Rico en Nucleo",
+        "Ácido Desoxirribonucleico",
+        "Ácido Ribonucleico",
+        "Antena Rosa y Numerada"
+      ],
+      "answer":"Ácido Ribonucleico"
+    },
+    {
+      "question":"¿Cómo se conoce el ingblackiente psicoactivo de la marihuana?",
+      "options":[
+        "LHC",
+        "THC",
+        "LSD",
+        "PHP"
+      ],
+      "answer":"THC"
+    },
+    {
+      "question":"¿Cuántos centímetros cúbicos tiene un litro?",
+      "options":[
+        "100",
+        "1000",
+        "10",
+        "1"
+      ],
+      "answer":"1000"
+    },
+    {
+      "question":"¿Cómo se llama la rama de las matemáticas en que los números son representados por letras y símbolos?",
+      "options":[
+        "Adición",
+        "Álgebra",
+        "Geometría",
+        "Topología"
+      ],
+      "answer":"Álgebra"
+    },
+    {
+      "question":"¿Cuántos hidrógenos tiene la molécula de metano?",
+      "options":[
+        "10",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer":"4"
+    },
+    {
+      "question":"¿Cuál es el animal que tiene la presión más alta?",
+      "options":[
+        "Conejo",
+        "Serpiente",
+        "Elefante",
+        "Jirafa"
+      ],
+      "answer":"Jirafa"
+    },
+    {
+      "question":"¿De qué color es el sudor de los hipopótamos?",
+      "options":[
+        "Amarillo",
+        "Azul",
+        "Rojizo",
+        "Verde"
+      ],
+      "answer":"Rojizo"
+    },
+    {
+      "question":"¿Cómo se llama el líquido que expulsan los recién nacidos en lugar de las heces durante los primeros días?",
+      "options":[
+        "Placenta",
+        "Frutenio",
+        "Politu",
+        "Meconio"
+      ],
+      "answer":"Meconio"
+    },
+    {
+      "question":"¿Cuál es la planta más conocida que tiene propiedades cicatrizantes,limpiadoras y regeneradoras?",
+      "options":[
+        "Aloe Vera",
+        "Alcachofa",
+        "Eneldo",
+        "Quínoa"
+      ],
+      "answer":"Aloe Vera"
+    },
+    {
+      "question":"¿Cómo se llama el movimiento que realiza la Tierra alblackedor del Sol?",
+      "options":[
+        "Traslación",
+        "Rotación",
+        "La Tierra no se mueve",
+        "Órbita"
+      ],
+      "answer":"Traslación"
+    },
+    {
+      "question":"¿Qué organo del cuerpo es el más dañado por el consumo excesivo de alcohol?",
+      "options":[
+        "Cerebro",
+        "Estómago",
+        "Corazón",
+        "Hígado"
+      ],
+      "answer":"Hígado"
+    },
+    {
+      "question":"¿Qué es el ciclo de krebs?",
+      "options":[
+        "Ciclo del colesterol",
+        "Ciclo del ácido cítrico",
+        "Producción de hormonas",
+        "No existe tal cosa"
+      ],
+      "answer":"Ciclo del ácido cítrico"
+    },
+    {
+      "question":"¿Cómo se llama la cresta que hace el labio debajo de la nariz?",
+      "options":[
+        "Surco nasolabial",
+        "Geme",
+        "Axila",
+        "Glabella"
+      ],
+      "answer":"Surco nasolabial"
+    },
+    {
+      "question":"¿Qué son la morfina y la heroína?",
+      "options":[
+        "Anfetaminas",
+        "Cannabis",
+        "Estimulantes",
+        "Opiáceos"
+      ],
+      "answer":"Opiáceos"
+    },
+    {
+      "question":"¿Qué sustancia permite realizar la fotosíntesis?",
+      "options":[
+        "Savia",
+        "Cloroformo",
+        "Clorofila",
+        "Agua"
+      ],
+      "answer":"Clorofila"
+    },
+    {
+      "question":"¿Cuál es el único nervio que no pasa por el tálamo?",
+      "options":[
+        "Nervio Vago",
+        "Nervio Óptico",
+        "Nervio Olfativo",
+        "Nervio Ciático"
+      ],
+      "answer":"Nervio Olfativo"
+    },
+    {
+      "question":"¿Qué hace un procastinador?",
+      "options":[
+        "Se obsesiona con el sexo",
+        "Presume sus logros",
+        "Pospone sus actividades",
+        "Es hiperactivo"
+      ],
+      "answer":"Pospone sus actividades"
+    },
+    {
+      "question":"¿Qué función tienen las manchas de la jirafa?",
+      "options":[
+        "Ninguna",
+        "Atraer",
+        "Sacar el calor",
+        "Aullentar a los depblackadores"
+      ],
+      "answer":"Sacar el calor"
+    },
+    {
+      "question":"¿Qué articulación une el fémur con la tibia?",
+      "options":[
+        "Muñeca",
+        "Codo",
+        "Tobillo",
+        "Rodilla"
+      ],
+      "answer":"Rodilla"
+    },
+    {
+      "question":"¿Cuántos colores tenía la primera tarjeta gráfica?",
+      "options":[
+        "1",
+        "2",
+        "8",
+        "16"
+      ],
+      "answer":"2"
+    },
+    {
+      "question":"¿Dónde llevan los cocodrilos a sus crías?",
+      "options":[
+        "En la barriga",
+        "En la boca",
+        "En la cabeza",
+        "En la espalda"
+      ],
+      "answer":"En la boca"
+    },
+    {
+      "question":"¿Cómo se denomina el sulfato de calcio,cuando se usa para escribir?",
+      "options":[
+        "Grafito",
+        "Lápiz",
+        "Tinta",
+        "Tiza"
+      ],
+      "answer":"Tiza"
+    },
+    {
+      "question":"¿Cuánto es la raíz cuadrada de 625?",
+      "options":[
+        "25",
+        "11",
+        "26",
+        "12"
+      ],
+      "answer":"25"
+    },
+    {
+      "question":"¿Cuántas veces se calcula que latirá el corazón a lo largo de toda la vida de una persona?",
+      "options":[
+        "4.000 millones",
+        "2 millones",
+        "1.500 millones",
+        "1.000 millones"
+      ],
+      "answer":"4.000 millones"
+    },
+    {
+      "question":"¿Quién postuló la ley del principio de inercia?",
+      "options":[
+        "Albert Einstein",
+        "Víctor Alvarado",
+        "Isaac Newton",
+        "John kennedy"
+      ],
+      "answer":"Isaac Newton"
+    },
+    {
+      "question":"¿En qué año falleció Steve Jobs?",
+      "options":[
+        "2008",
+        "2009",
+        "2011",
+        "2007"
+      ],
+      "answer":"2011"
+    },
+    {
+      "question":"¿El déficit de qué vitamina produce raquitismo?",
+      "options":[
+        "C",
+        "A",
+        "E",
+        "D"
+      ],
+      "answer":"D"
+    },
+    {
+      "question":"¿Cómo se llama el estado vital en que la persona actúa conforme a estímulos e intereses  ajenos, creyendo que le son propios",
+      "options":[
+        "Tangencialidad",
+        "Perseveración",
+        "Alienación",
+        "Ilogicidad"
+      ],
+      "answer":"Alienación"
+    },
+    {
+      "question":"¿Qué estudia el herpetólogo?",
+      "options":[
+        "Los herpes",
+        "Reptiles y viboras",
+        "Los gusanos",
+        "Los virus"
+      ],
+      "answer":"Reptiles y viboras"
+    },
+    {
+      "question":"¿Dónde se almacena la información genética del ser humano?",
+      "options":[
+        "ADN",
+        "ADM",
+        "ADÑ",
+        "ARN"
+      ],
+      "answer":"ADN"
+    },
+    {
+      "question":"¿Cuál de los siguientes números es mayor?",
+      "options":[
+        "El número Pi",
+        "El número e",
+        "El número áureo",
+        "El cero"
+      ],
+      "answer":"El número Pi"
+    },
+    {
+      "question":"¿Qué nervio es el VII par craneal?",
+      "options":[
+        "Nervio glosofaríngeo",
+        "Nervio hipogloso",
+        "Nervio abducens",
+        "Nervio facial"
+      ],
+      "answer":"Nervio facial"
+    },
+    {
+      "question":"¿Cómo se llama la técnica consistente en descender la temperatura del cuerpo humano por debajo de -190ºC?",
+      "options":[
+        "Congelación",
+        "Shock",
+        "Criogenización",
+        "Solidificación"
+      ],
+      "answer":"Criogenización"
+    },
+    {
+      "question":"¿Qué hay que ponerle a un vidrio para convertirlo en un espejo?",
+      "options":[
+        "Aluminio",
+        "Mercurio",
+        "Plomo",
+        "Yodo"
+      ],
+      "answer":"Aluminio"
+    },
+    {
+      "question":"¿Qué es un bit?",
+      "options":[
+        "La unidad más pequeña de almacenamiento",
+        "La escala musical que tiene un tempo",
+        "Un remix de algún dj.",
+        "Bassic interface conection"
+      ],
+      "answer":"La unidad más pequeña de almacenamiento"
+    },
+    {
+      "question":"¿Cuántas alas tiene una pulga?",
+      "options":[
+        "Dos",
+        "Ninguna",
+        "Una",
+        "Cuatro"
+      ],
+      "answer":"Ninguna"
+    },
+    {
+      "question":"¿Cómo se conoce comúnmente al compuesto químico NaCI?",
+      "options":[
+        "Azúcar",
+        "Leche",
+        "Sal",
+        "Pimienta"
+      ],
+      "answer":"Sal"
+    },
+    {
+      "question":"¿Qué son los leucocitos?",
+      "options":[
+        "Glóbulos blancos",
+        "Glóbulos rojos",
+        "Glóbulos azules",
+        "Glóbulos negros"
+      ],
+      "answer":"Glóbulos blancos"
+    },
+    {
+      "question":"¿Qué significan las siglas ADN?",
+      "options":[
+        "Antigénico de Dieteninol",
+        "Ácido desoxirribonucleico",
+        "Ácido Diosferoniclostico",
+        "Antigénico Disfetinoleno"
+      ],
+      "answer":"Ácido desoxirribonucleico"
+    },
+    {
+      "question":"¿Por qué tipo de elementos están formadas las sales binarias?",
+      "options":[
+        "Oxígeno e hidrogeno",
+        "Un metal y un no metal",
+        "Oxígeno y un metal",
+        "Hidrógeno y un no metal"
+      ],
+      "answer":"Un metal y un no metal"
+    },
+    {
+      "question":"¿Cuál es el componente principal del chocolate?",
+      "options":[
+        "Cacao",
+        "Leche",
+        "Azúcar",
+        "Chocolate"
+      ],
+      "answer":"Cacao"
+    },
+    {
+      "question":"¿Cuál es el músculo causante del espasmo muscular “Torticolis”?",
+      "options":[
+        "Occipitofrontal",
+        "Complexo Mayor",
+        "Esplenio de la cabeza",
+        "Esternocleidomastoideo"
+      ],
+      "answer":"Esternocleidomastoideo"
+    },
+    {
+      "question":"¿Cómo se conoce el virus del SIDA ?",
+      "options":[
+        "VPH",
+        "VIH",
+        "ARN",
+        "HBV"
+      ],
+      "answer":"VIH"
+    },
+    {
+      "question":"¿Cuántas células de esperma fabrican los testículos de un hombre al día?",
+      "options":[
+        "36,267",
+        "5 millones",
+        "2",
+        "10 millones"
+      ],
+      "answer":"10 millones"
+    },
+    {
+      "question":"¿Por qué compuesto químico está formada la lavandina?",
+      "options":[
+        "Cloruro de Sodio",
+        "Perclorato de Aluminio",
+        "Hipoclorito de Sodio",
+        "Yoduro de Cobre"
+      ],
+      "answer":"Hipoclorito de Sodio"
+    },
+    {
+      "question":"¿Quién fue el inventor de la bombilla ?",
+      "options":[
+        "Newton",
+        "Fahrenheit",
+        "Edison",
+        "Janssen"
+      ],
+      "answer":"Edison"
+    },
+    {
+      "question":"¿En matemáticas , ¿qué es 3,14 ?",
+      "options":[
+        "Rho",
+        "Xi",
+        "Chi",
+        "Pi"
+      ],
+      "answer":"Pi"
+    },
+    {
+      "question":"¿Cuál de los siguientes NO forma parte de un ordenador personal?",
+      "options":[
+        "Teclado",
+        "Microondas",
+        "Ratón",
+        "Monitor"
+      ],
+      "answer":"Microondas"
+    },
+    {
+      "question":"¿Cuántos grados Kelvin son 0 grados Celcius?",
+      "options":[
+        "283,15",
+        "100",
+        "273,15",
+        "10"
+      ],
+      "answer":"273,15"
+    },
+    {
+      "question":"¿Qué nombre tiene el portátil más ligero, en peso, de Apple?",
+      "options":[
+        "MacBook Light",
+        "MacBook Slim",
+        "MacBook Air",
+        "MacBook Lite   "
+      ],
+      "answer":"MacBook Air"
+    },
+    {
+      "question":"¿Quién es considerado el padre de la genética?",
+      "options":[
+        "Aristóteles",
+        "Hugo de Vries",
+        "Gregor Mendel",
+        "Eric Von Tschermak"
+      ],
+      "answer":"Gregor Mendel"
+    },
+    {
+      "question":"¿Cuál de estas fases NO es una de las fases de la división celular?",
+      "options":[
+        "Rinofase",
+        "Profase",
+        "Metafase",
+        "Anafase"
+      ],
+      "answer":"Rinofase"
+    },
+    {
+      "question":"¿En cuántos lóbulos se divide el pulmón derecho?",
+      "options":[
+        "Cuatro",
+        "Tres",
+        "Dos",
+        "Ninguno"
+      ],
+      "answer":"Tres"
+    },
+    {
+      "question":"¿Qué son los pugs ?",
+      "options":[
+        "Una comida",
+        "Un lugar",
+        "Una tradicion regional",
+        "Una raza de perro"
+      ],
+      "answer":"Una raza de perro"
+    },
+    {
+      "question":"¿El ciempiés gigante del Amazonas puede medir más de 30 centimetros y cuelga de las cuevas. ¿Qué mamífero volador le resulta fácil cazar ?",
+      "options":[
+        "Mariposas",
+        "Murciélagos",
+        "Lagartos",
+        "Águilas"
+      ],
+      "answer":"Murciélagos"
+    },
+    {
+      "question":"¿Cómo se llama el registro gráfico de la activa eléctrica del cerebro?",
+      "options":[
+        "Electrocardiograma",
+        "Electrocerebrograma",
+        "Electroencefalograma",
+        "Electroconductancia"
+      ],
+      "answer":"Electroencefalograma"
+    },
+    {
+      "question":"¿A partir de qué nivel de inteligencia se puede considerar que alguien es un genio?",
+      "options":[
+        "90",
+        "100",
+        "190",
+        "140"
+      ],
+      "answer":"140"
+    },
+    {
+      "question":"¿Qué es la levadura?",
+      "options":[
+        "Una planta",
+        "Un hongo",
+        "Un animal",
+        "Una raíz"
+      ],
+      "answer":"Un hongo"
+    },
+    {
+      "question":"¿El pulso de qué arteria se usa para comprobar la muerte de una persona?",
+      "options":[
+        "Carótida",
+        "Femoral",
+        "Vertebral",
+        "Radial"
+      ],
+      "answer":"Carótida"
+    },
+    {
+      "question":"¿Cómo se llama la enfermedad por la que una persona cree infundadamente que padece alguna enfermedad grave?",
+      "options":[
+        "Aburrimiento",
+        "Hipocondría",
+        "Melancolía",
+        "Neurastenia"
+      ],
+      "answer":"Hipocondría"
+    },
+    {
+      "question":"¿Cuánto es la raíz cuadrada del 121?",
+      "options":[
+        "11",
+        "13",
+        "10",
+        "21"
+      ],
+      "answer":"11"
+    },
+    {
+      "question":"¿Cuántas Leyes de Mendel hay?",
+      "options":[
+        "2",
+        "4",
+        "3",
+        "No hay leyes de Mendel"
+      ],
+      "answer":"3"
+    },
+    {
+      "question":"¿Qué parte del cuerpo humano puede tener un soplo?",
+      "options":[
+        "Pulmón",
+        "Oído",
+        "Corazón",
+        "Colon"
+      ],
+      "answer":"Corazón"
+    },
+    {
+      "question":"¿Cómo se llama la arteria principal del cuerpo humano?",
+      "options":[
+        "Carótida",
+        "Yugular",
+        "Aorta",
+        "Subclavia"
+      ],
+      "answer":"Aorta"
+    },
+    {
+      "question":"¿Quién fue el Inventor de la dinamita?",
+      "options":[
+        "Alfblack Nobel",
+        "Heisenberg",
+        "Antony Stark",
+        "Walter White"
+      ],
+      "answer":"Alfblack Nobel"
+    },
+    {
+      "question":"¿Con qué nombre se conoce la energía producida por las partículas en movimiento?",
+      "options":[
+        "Energía Solar",
+        "Energía Potencial",
+        "Energía Cinética",
+        "Energía Eólica"
+      ],
+      "answer":"Energía Cinética"
+    },
+    {
+      "question":"¿Cómo llamamos a una lesión térmica o química de los tejidos?",
+      "options":[
+        "Quemadura",
+        "Inflamación",
+        "Úlcera",
+        "Hernia"
+      ],
+      "answer":"Quemadura"
+    },
+    {
+      "question":"¿Cuál es la distribución de Linux más usada?",
+      "options":[
+        "Debian",
+        "Ubunto",
+        "Fedora",
+        "Mint"
+      ],
+      "answer":"Ubunto"
+    },
+    {
+      "question":"¿Qué droga de las denominadas ‘blandas’ es útil en el tratamiento del dolor?",
+      "options":[
+        "Anfetamina",
+        "Marihuana",
+        "Cafeína",
+        "Cocaína"
+      ],
+      "answer":"Marihuana"
+    },
+    {
+      "question":"¿Cómo llamamos a la inflamación de la piel?",
+      "options":[
+        "Urticaria",
+        "Dermatitis",
+        "Psoriasis",
+        "Acné"
+      ],
+      "answer":"Dermatitis"
+    },
+    {
+      "question":"¿Cómo llaman los dentistas a ‘matar un nervio’?",
+      "options":[
+        "Extracción",
+        "Ortodoncia",
+        "Endodoncia",
+        "Proxilaxis bucal"
+      ],
+      "answer":"Endodoncia"
+    },
+    {
+      "question":"¿Cómo se llaman las pinzas especiales que se usan en obstetricia para sujetar la cabeza del bebé y hacer tracción sobre los partos difíciles ?",
+      "options":[
+        "Ventosa",
+        "Goniómetro",
+        "Forceps",
+        "Espéculo"
+      ],
+      "answer":"Forceps"
+    },
+    {
+      "question":"¿Cuál de estos NO es un musculo del cuerpo?",
+      "options":[
+        "Gemelos",
+        "Espinal",
+        "Sartorio",
+        "Cruzado"
+      ],
+      "answer":"Cruzado"
+    },
+    {
+      "question":"¿A qué tienes miedo si sufres de aracnofobia?",
+      "options":[
+        "Arañas",
+        "Elefantes",
+        "Hormigas",
+        "Mirlos"
+      ],
+      "answer":"Arañas"
+    },
+    {
+      "question":"¿Cuales de los siguientes no es un grupo sanguíneo?",
+      "options":[
+        "OO",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer":"OO"
+    },
+    {
+      "question":"¿Qué significan las siglas USB?",
+      "options":[
+        "Universal Serial Button",
+        "Uniform Serial Bus",
+        "Universal Serial Bus",
+        "Uniform Sonic Boom"
+      ],
+      "answer":"Universal Serial Bus"
+    },
+    {
+      "question":"¿Qué es lo que más lugar ocupa en el cerebro humano?",
+      "options":[
+        "Hipocampo",
+        "Cuerpo amigdalino",
+        "Hemisferios cerebrales",
+        "Cerebelo"
+      ],
+      "answer":"Hemisferios cerebrales"
+    },
+    {
+      "question":"¿Cuál es el símbolo químico del fósforo?",
+      "options":[
+        "P",
+        "F",
+        "Fo",
+        "Ps"
+      ],
+      "answer":"P"
+    },
+    {
+      "question":"¿De dónde forman parte los axones?",
+      "options":[
+        "Neurona",
+        "Tendón",
+        "Huesos",
+        "Corteza Cerebral"
+      ],
+      "answer":"Neurona"
+    },
+    {
+      "question":"¿Quién fundaron la marca Apple?",
+      "options":[
+        "S.Jobs y S.Wozniak",
+        "S.Jobs y B.Gates",
+        "S.Jobs y T.Cook",
+        "S.Jobs y J.Ive"
+      ],
+      "answer":"S.Jobs y S.Wozniak"
+    },
+    {
+      "question":"¿Dónde tienen las papilas gustativas las moscas?",
+      "options":[
+        "No tienen",
+        "En las patas",
+        "En la trompa",
+        "En las alas"
+      ],
+      "answer":"En las patas"
+    },
+    {
+      "question":"¿Dónde se encuentran las medusas con veneno mortal?",
+      "options":[
+        "Australia",
+        "Sudafrica",
+        "Japon",
+        "Thailandia"
+      ],
+      "answer":"Australia"
+    },
+    {
+      "question":"¿Qué es el caracol?",
+      "options":[
+        "Molusco",
+        "Crustáceo",
+        "Babosa",
+        "Reptil"
+      ],
+      "answer":"Molusco"
+    },
+    {
+      "question":"¿Qué enfermedad se caracteriza por repentinos ataques de sueño?",
+      "options":[
+        "Somnolencia",
+        "Insomnio",
+        "Hipersomnia",
+        "Narcolepsia"
+      ],
+      "answer":"Narcolepsia"
+    },
+    {
+      "question":"¿Cuál de las siguientes enfermedades es muy común en los mayores por la disminución de la densidad de los huesos?",
+      "options":[
+        "Esclerosis",
+        "Artrosis",
+        "Osteoporosis",
+        "Bursitis"
+      ],
+      "answer":"Osteoporosis"
+    },
+    {
+      "question":"¿Que tiene más concentración de sal?",
+      "options":[
+        "La sangre",
+        "El sudo",
+        "La orina",
+        "Las lágrimas"
+      ],
+      "answer":"La orina"
+    },
+    {
+      "question":"6- Si padeces la enfermedad de Crohn o colitis ulcerosa, tienes una enfermedad…",
+      "options":[
+        "Cerebral",
+        "Estomacal",
+        "Intestinal",
+        "Visual"
+      ],
+      "answer":"Intestinal"
+    },
+    {
+      "question":"¿Cómo se llama la torcedura de una articulación en el cuerpo?",
+      "options":[
+        "Desgarro",
+        "Esguince",
+        "Rotura",
+        "Contusión"
+      ],
+      "answer":"Esguince"
+    },
+    {
+      "question":"¿Qué es el colesterol?",
+      "options":[
+        "Una proteína",
+        "Un glúcido",
+        "Un ácido nucleico",
+        "Un lipido"
+      ],
+      "answer":"Un lipido"
+    },
+    {
+      "question":"¿Cómo se denomina el juramento que realizan los médicos?",
+      "options":[
+        "Hipocrático",
+        "Aristocrático",
+        "Medicinal",
+        "Doctorado"
+      ],
+      "answer":"Hipocrático"
+    },
+    {
+      "question":"¿Qué significan las siglas “www”?",
+      "options":[
+        "Todas son correctas",
+        "Wikipedia World Web",
+        "World Wild West",
+        "World Wide Web"
+      ],
+      "answer":"World Wide Web"
+    }
+  ]
+}

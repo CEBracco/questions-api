@@ -1,0 +1,1135 @@
+{
+  "name":"Geografía",
+  "questions":[
+    {
+      "question":"¿Cuál es el país menos turístico de Europa?",
+      "options":[
+        "Armenia",
+        "Moldavia",
+        "Liechtenstein",
+        "Hungría"
+      ],
+      "answer":"Liechtenstein"
+    },
+    {
+      "question":"¿A qué país pertenece la isla de Tasmania?",
+      "options":[
+        "Estados Unidos",
+        "Australia",
+        "Portugal",
+        "Ninguna es correcta"
+      ],
+      "answer":"Australia"
+    },
+    {
+      "question":"¿En cuál de los siguientes países NO hay ningún desierto?",
+      "options":[
+        "España",
+        "Chile",
+        "Mongolia",
+        "Alemania"
+      ],
+      "answer":"Alemania"
+    },
+    {
+      "question":"¿Cuál es el código internacional para Cuba?",
+      "options":[
+        "CA",
+        "CU",
+        "CB",
+        "Ninguna es correcta"
+      ],
+      "answer":"CU"
+    },
+    {
+      "question":"¿Cuál es la capital del estado de Arkansas?",
+      "options":[
+        "Kansas",
+        "Little Rock",
+        "Hot Springs",
+        "Washington"
+      ],
+      "answer":"Little Rock"
+    },
+    {
+      "question":"¿En qué país situarías la ciudad de Cali?",
+      "options":[
+        "Colombia",
+        "Venezuela",
+        "Costa Rica",
+        "Chile"
+      ],
+      "answer":"Colombia"
+    },
+    {
+      "question":"¿Cuál de estas características no pertenece al clima Mediterráneo?",
+      "options":[
+        "Veranos secos y calurosos",
+        "Es un tipo de clima templado",
+        "Lluvias muy abundantes",
+        "Variables temperaturas en primavera"
+      ],
+      "answer":"Lluvias muy abundantes"
+    },
+    {
+      "question":"¿Qué es el Cabo de Creus?",
+      "options":[
+        "El punto más oriental de España",
+        "El punto más oriental de la Península",
+        "El punto más oriental de Cataluña",
+        "Ninguna es correcta"
+      ],
+      "answer":"El punto más oriental de la Península"
+    },
+    {
+      "question":"¿Cuál es principal celebración holandesa?",
+      "options":[
+        "Navidad",
+        "La llegada del verano",
+        "El día de la Reina",
+        "Hallowen"
+      ],
+      "answer":"El día de la Reina"
+    },
+    {
+      "question":"¿Cuál de las siguientes especialidades NO es típica de la cocina estadounidense?",
+      "options":[
+        "La hamburguesa",
+        "El pastel de cangrejo",
+        "La tarta de manzana",
+        "Todas son típicas"
+      ],
+      "answer":"Todas son típicas"
+    },
+    {
+      "question":"¿Con cuántos países limita Argentina?",
+      "options":[
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis"
+      ],
+      "answer":"Cinco"
+    },
+    {
+      "question":"¿Qué es la UA?",
+      "options":[
+        "Unión Austrohúngara",
+        "Unión Africana",
+        "Unión Americana",
+        "Unión Afroamericana"
+      ],
+      "answer":"Unión Africana"
+    },
+    {
+      "question":"¿Cuál es la capital de Suiza?",
+      "options":[
+        "Berna",
+        "Zurich",
+        "Ginebra",
+        "Basilea"
+      ],
+      "answer":"Berna"
+    },
+    {
+      "question":"¿Qué separa las franjas de Gaza y Cisjordania?",
+      "options":[
+        "Un muro",
+        "Nada",
+        "Israel",
+        "Un río"
+      ],
+      "answer":"Israel"
+    },
+    {
+      "question":"¿En qué país está Ushuaia, la ciudad más al sur del mundo?",
+      "options":[
+        "Chile",
+        "Argentina",
+        "Sudáfrica",
+        "Nueva Zelanda"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"¿Cuál de estos países africanos no tiene costa?",
+      "options":[
+        "Mauritania",
+        "Senegal",
+        "Gambia",
+        "Todas tienen costa"
+      ],
+      "answer":"Todas tienen costa"
+    },
+    {
+      "question":"¿En qué se dividen las rupias indias y pakistanís?",
+      "options":[
+        "En centavos",
+        "En céntimos",
+        "En peniques",
+        "En paisas"
+      ],
+      "answer":"En paisas"
+    },
+    {
+      "question":"¿Cuál de las siguientes islas está más al sur?",
+      "options":[
+        "Sicilia",
+        "Malta",
+        "Córcega",
+        "Cerdeña"
+      ],
+      "answer":"Malta"
+    },
+    {
+      "question":"¿Cuál de las siguientes ciudades no es una ciudad santa?",
+      "options":[
+        "Santiago de Compostela",
+        "Hebrón",
+        "Asís",
+        "Burgos"
+      ],
+      "answer":"Burgos"
+    },
+    {
+      "question":"¿Cuál es la capital de Baréin?",
+      "options":[
+        "Baréin",
+        "Manama",
+        "Ammán",
+        "Riad"
+      ],
+      "answer":"Manama"
+    },
+    {
+      "question":"¿En qué país está la Laguna Verde? .",
+      "options":[
+        "Chile",
+        "Argentina",
+        "Bolivia",
+        "Todas son correctas"
+      ],
+      "answer":"Bolivia"
+    },
+    {
+      "question":"¿En qué cordillera están la mayoría de las grandes montañas? .",
+      "options":[
+        "En el Karakórum",
+        "En el Himalaya",
+        "En los Andes",
+        "En las Montañas Rocosas"
+      ],
+      "answer":"En el Himalaya"
+    },
+    {
+      "question":"¿Qué ciudad europea es famosa por la belleza de su parlamento? .",
+      "options":[
+        "París",
+        "Madrid",
+        "Praga",
+        "Budapest"
+      ],
+      "answer":"Budapest"
+    },
+    {
+      "question":"¿Cuál es la capital de Libia? .",
+      "options":[
+        "Trípoli",
+        "Beirut",
+        "El Cairo",
+        "Riad"
+      ],
+      "answer":"Trípoli"
+    },
+    {
+      "question":"¿Entre qué dos países está el lago Titicaca?",
+      "options":[
+        "Bolivia y Perú",
+        "Bolivia y Paraguay",
+        "Bolivia y Brasil",
+        "Bolivia y Argentina"
+      ],
+      "answer":"Bolivia y Perú"
+    },
+    {
+      "question":"¿Cuál es la capital de la república de Macedonia?",
+      "options":[
+        "La Valeta",
+        "Skopje",
+        "Chisinau",
+        "Sarajevo"
+      ],
+      "answer":"Skopje"
+    },
+    {
+      "question":"¿Qué accidente geográfico se define como un conjunto de islas, islotes y diminutas masas de tierra cercanas entre sí? .",
+      "options":[
+        "Islotes",
+        "Península",
+        "Archipiélago",
+        "Meandro"
+      ],
+      "answer":"Archipiélago"
+    },
+    {
+      "question":"¿A qué país pertenece la isla Mujeres? .",
+      "options":[
+        "México",
+        "Argentina",
+        "Colombia",
+        "Chile"
+      ],
+      "answer":"México"
+    },
+    {
+      "question":"¿Qué país es bañado por la Bahía de Hudson? .",
+      "options":[
+        "Estados Unidos",
+        "Reino Unido",
+        "Rep. de Irlanda",
+        "Canadá"
+      ],
+      "answer":"Canadá"
+    },
+    {
+      "question":"¿Qué país africano fue antigua colonia española? .",
+      "options":[
+        "R.D. Congo",
+        "Guinea Ecuatorial",
+        "Sudáfrica",
+        "Egipto"
+      ],
+      "answer":"Guinea Ecuatorial"
+    },
+    {
+      "question":"¿En qué continente/s se encuentra Turquía? .",
+      "options":[
+        "América",
+        "Asia y Europa",
+        "África y Europa",
+        "Oceania"
+      ],
+      "answer":"Asia y Europa"
+    },
+    {
+      "question":"¿Cuál es la religión mayoritaria en China? .",
+      "options":[
+        "Budismo",
+        "Taoísmo",
+        "Confucianismo",
+        "Cristianismo"
+      ],
+      "answer":"Budismo"
+    },
+    {
+      "question":"¿En qué mar desemboca el rio Segura? .",
+      "options":[
+        "Ninguna es correcta",
+        "Mar Cantábrico",
+        "Mar Báltico",
+        "Mar Mediterráneo"
+      ],
+      "answer":"Mar Mediterráneo"
+    },
+    {
+      "question":"¿Que accidente geográfico se define como una pendiente vertical abrupta? .",
+      "options":[
+        "Un acantilado",
+        "Un barranco",
+        "Una montaña",
+        "Un puente"
+      ],
+      "answer":"Un acantilado"
+    },
+    {
+      "question":"¿Cuál es el edificio más famoso en Dubai? .",
+      "options":[
+        "Crystal Island",
+        "Torre Eiffel",
+        "Burjal Arab",
+        "Crosgrove"
+      ],
+      "answer":"Burjal Arab"
+    },
+    {
+      "question":"¿Con cuántos países limita la República Argentina? .",
+      "options":[
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "answer":"5"
+    },
+    {
+      "question":"¿Dónde se encuentra el Cerro Uritorco, conocido por sus avistamientos a O.V.N.I.S.? .",
+      "options":[
+        "La Banda, Santiago del Estero",
+        "Logroño, España",
+        "Santiago, Chile",
+        "Capilla del Monte, Córdoba"
+      ],
+      "answer":"Capilla del Monte, Córdoba"
+    },
+    {
+      "question":"¿Dónde está el desierto del Gobi? .",
+      "options":[
+        "Al sur de Mongolia",
+        "Al sur de China",
+        "Al sur de Japón",
+        "Ninguna es correcta"
+      ],
+      "answer":"Al sur de Mongolia"
+    },
+    {
+      "question":"¿Dónde se encuentra Baiona? .",
+      "options":[
+        "Francia",
+        "Pontevedra",
+        "País Vasco",
+        "Andalucia"
+      ],
+      "answer":"Pontevedra"
+    },
+    {
+      "question":"¿A qué país pertenece la Isla de Pascua? .",
+      "options":[
+        "Indonesia",
+        "Chile",
+        "Australia",
+        "Es un país"
+      ],
+      "answer":"Chile"
+    },
+    {
+      "question":"¿En qué país de África es el español el idioma oficial? .",
+      "options":[
+        "Camerún",
+        "Gabón",
+        "Ghana",
+        "Guinea Ecuatorial"
+      ],
+      "answer":"Ghana"
+    },
+    {
+      "question":"¿Cuál es la capital de Argelia? .",
+      "options":[
+        "Argela",
+        "Arabia",
+        "Colombo",
+        "Argel"
+      ],
+      "answer":"Argel"
+    },
+    {
+      "question":"¿Dónde está la isla más joven del mundo, nacida en 2011 producto de una erupción volcánica? .",
+      "options":[
+        "En Omán",
+        "En la Polinesia Francesa",
+        "En Australia",
+        "En Yemen"
+      ],
+      "answer":"En Yemen"
+    },
+    {
+      "question":"¿En qué continente está la India? .",
+      "options":[
+        "Oceanía",
+        "América",
+        "Asia",
+        "Antártida"
+      ],
+      "answer":"Asia"
+    },
+    {
+      "question":"¿Cuál es la capital del estado de California? .",
+      "options":[
+        "San Francisco",
+        "Sacramento",
+        "Los Ángeles",
+        "San Diego"
+      ],
+      "answer":"Sacramento"
+    },
+    {
+      "question":"¿Cuál es el mayor golfo de Africa? .",
+      "options":[
+        "El de Sirte",
+        "El de Gabés",
+        "El de Guinea",
+        "Ninguna es correcta"
+      ],
+      "answer":"El de Guinea"
+    },
+    {
+      "question":"¿Cúales son las ciudades autónomas de España? .",
+      "options":[
+        "Melilla y Alhucemas",
+        "Melilla y Nador",
+        "Ceuta y Villa Sanjurjo",
+        "Ceuta y Melilla"
+      ],
+      "answer":"Ceuta y Melilla"
+    },
+    {
+      "question":"¿Cúal es la capital de Alemania? .",
+      "options":[
+        "Berlín",
+        "Múnich",
+        "Frankfurt",
+        "Dublin"
+      ],
+      "answer":"Berlín"
+    },
+    {
+      "question":"¿Dónde está la ciudad de Mostar? .",
+      "options":[
+        "Serbia",
+        "Montenegro",
+        "Bosnia y Herzegovina",
+        "Croacia"
+      ],
+      "answer":"Bosnia y Herzegovina"
+    },
+    {
+      "question":"¿De dónde es capital Thimbu? .",
+      "options":[
+        "De Thimbu",
+        "De Bután",
+        "De Nepal",
+        "Ninguna es correcta"
+      ],
+      "answer":"De Bután"
+    },
+    {
+      "question":"¿Cuál es la capital de Ecuador? .",
+      "options":[
+        "Lima",
+        "Quito",
+        "Bogota",
+        "Guayaquil"
+      ],
+      "answer":"Quito"
+    },
+    {
+      "question":"¿Cuál de estos países no está en una isla? .",
+      "options":[
+        "Japón",
+        "Jamaica",
+        "Madagascar",
+        "Ghana"
+      ],
+      "answer":"Ghana"
+    },
+    {
+      "question":"¿Cuál de las siguientes ciudades sudafricanas es la más poblada? .",
+      "options":[
+        "Johannesburgo",
+        "Ciudad del Cabo",
+        "Pretoria",
+        "East London"
+      ],
+      "answer":"Johannesburgo"
+    },
+    {
+      "question":"¿Cuál de las grandes montañas ha sido estalada más veces? .",
+      "options":[
+        "El K2",
+        "El Everest",
+        "El Annapurna I",
+        "El Annapurna II"
+      ],
+      "answer":"El Everest"
+    },
+    {
+      "question":"¿Dónde queda el monumento a la mitad del mundo? .",
+      "options":[
+        "Quito",
+        "Bogota",
+        "Lima",
+        "Manaos"
+      ],
+      "answer":"Quito"
+    },
+    {
+      "question":"¿Dónde se encuentra la cordillera de Los Andes? .",
+      "options":[
+        "Europa",
+        "Asia",
+        "Oceania",
+        "América"
+      ],
+      "answer":"América"
+    },
+    {
+      "question":"¿A qué localidad manchega irías a por ‘berenjenas’? .",
+      "options":[
+        "al Toboso",
+        "a Orejilla del Sordete",
+        "a Almagro",
+        "al Viso del Marqués"
+      ],
+      "answer":"a Almagro"
+    },
+    {
+      "question":"¿En qué ciudad española encontrarás los barrios de la Trinidad, la Palmilla y Carranque? .",
+      "options":[
+        "Barcelona",
+        "Sevilla",
+        "Málaga",
+        "Las Palmas"
+      ],
+      "answer":"Málaga"
+    },
+    {
+      "question":"¿Dónde vivía Pablo Escobar? .",
+      "options":[
+        "Colombia",
+        "Ecuador",
+        "Argentina",
+        "España"
+      ],
+      "answer":"Colombia"
+    },
+    {
+      "question":"¿A qué archipiélago pertenece la isla de Gran Canaria? .",
+      "options":[
+        "Canario",
+        "Chinijo",
+        "Isleño",
+        "Atlántico"
+      ],
+      "answer":"Canario"
+    },
+    {
+      "question":"¿Cuál es la capital de Corea Del Sur? .",
+      "options":[
+        "Busan",
+        "Pyongyang",
+        "Tegucigalpa",
+        "Seúl"
+      ],
+      "answer":"Seúl"
+    },
+    {
+      "question":"¿Dónde se encuentra la ciudad de Bahía Blanca? .",
+      "options":[
+        "Uruguay",
+        "Argentina",
+        "Chile",
+        "Brasil"
+      ],
+      "answer":"Argentina"
+    },
+    {
+      "question":"64- Una península es una parte del territorio… .",
+      "options":[
+        "Muy montañosa",
+        "Rodeada totalmente de agua",
+        "Rodeada de agua menos por una parte",
+        "Ninguna es correcta"
+      ],
+      "answer":"Rodeada de agua menos por una parte"
+    },
+    {
+      "question":"¿A qué ciudad costera europea se la conoce como la Perla del Adriático? .",
+      "options":[
+        "Dubrovnik",
+        "Nápoles",
+        "Barcelona",
+        "Atenas"
+      ],
+      "answer":"Dubrovnik"
+    },
+    {
+      "question":"¿En qué continente se encuentra el país Mexico? .",
+      "options":[
+        "Europa",
+        "Asia",
+        "América",
+        "Oceania"
+      ],
+      "answer":"América"
+    },
+    {
+      "question":"¿De qué colores es la bandera de Bélgica? .",
+      "options":[
+        "Negro, amarillo y rojo",
+        "Negro, amarillo y verde",
+        "Negro y amarillo",
+        "Amarillo y marron"
+      ],
+      "answer":"Negro, amarillo y rojo"
+    },
+    {
+      "question":"¿Cuál es la capital de Angola? .",
+      "options":[
+        "Kinasasa",
+        "Luanda",
+        "Zuberoa",
+        "Brazzabille"
+      ],
+      "answer":"Luanda"
+    },
+    {
+      "question":"¿Dónde están las torres Petronas? .",
+      "options":[
+        "En Malasia",
+        "En Indonesia",
+        "En Singapur",
+        "En Tailandia"
+      ],
+      "answer":"En Malasia"
+    },
+    {
+      "question":"¿Dónde se celebra el Oktoberfest? .",
+      "options":[
+        "Alemania",
+        "Rusia",
+        "Ucrania",
+        "Reino Unido"
+      ],
+      "answer":"Alemania"
+    },
+    {
+      "question":"¿Cuál es el plato típico de Mallorca? .",
+      "options":[
+        "Tumbet",
+        "Paella",
+        "Marisco",
+        "Merchines"
+      ],
+      "answer":"Tumbet"
+    },
+    {
+      "question":"¿Dónde nació el Hip-Hop? .",
+      "options":[
+        "Nueva York",
+        "San Francisco",
+        "Chicago",
+        "Philadelphia"
+      ],
+      "answer":"Nueva York"
+    },
+    {
+      "question":"¿Cuál es el idioma oficial de Uruguay? .",
+      "options":[
+        "El uruguayo",
+        "El español",
+        "El uruguayo y el español",
+        "El español y el guaraní"
+      ],
+      "answer":"El español"
+    },
+    {
+      "question":"¿qué ciudad tiene como símbolo ‘xxx’? .",
+      "options":[
+        "París",
+        "Praga",
+        "Berlín",
+        "Ámsterdam"
+      ],
+      "answer":"Ámsterdam"
+    },
+    {
+      "question":"¿Cuáles son los ingblackientes exclusivos de la paella valenciana son? .",
+      "options":[
+        "Arroz, mariscos, guisantes",
+        "Arroz, judías verdes, carne de pollo y conejo",
+        "Arroz, garbanzos, costillas, morcillas",
+        "Arroz, chorizo y mucho limón"
+      ],
+      "answer":"Arroz, judías verdes, carne de pollo y conejo"
+    },
+    {
+      "question":"¿Cuál es la capital de Kosovo? .",
+      "options":[
+        "Kosovo",
+        "Tenerife",
+        "Prístina",
+        "Malí"
+      ],
+      "answer":"Prístina"
+    },
+    {
+      "question":"¿Cuándo es verano en el hemisferio sur?",
+      "options":[
+        "De diciembre a marzo",
+        "De marzo a junio",
+        "De junio a septiembre",
+        "De septiembre a diciembre"
+      ],
+      "answer":"De diciembre a marzo"
+    },
+    {
+      "question":"¿Qué país NO se encuentra en Asia?",
+      "options":[
+        "Indonesia",
+        "Sri Lanka",
+        "Brunei",
+        "Comores "
+      ],
+      "answer":"Comores"
+    },
+    {
+      "question":"¿Cuál es la capital de Japón?",
+      "options":[
+        "Tokio",
+        "Kyoto",
+        "Pekin",
+        "Ninguna es correcta"
+      ],
+      "answer":"Tokio"
+    },
+    {
+      "question":"¿Cuál de estos países africanos NO tiene costa ?",
+      "options":[
+        "Sudáfrica ",
+        "Túnez",
+        "Chad",
+        "Marruecos"
+      ],
+      "answer":"Chad"
+    },
+    {
+      "question":"¿Cuál es la capital de Belice ?",
+      "options":[
+        "Kingston",
+        "Managua",
+        "Belmopan",
+        "Saint John"
+      ],
+      "answer":"Belmopan"
+    },
+    {
+      "question":"¿A qué país tienes que ir para visitar el turístico pueblo costero de Sidi Bou Said?",
+      "options":[
+        "Marruecos ",
+        "Egipto",
+        "Túnez",
+        "Libia"
+      ],
+      "answer":"Túnez"
+    },
+    {
+      "question":"¿En qué provincia desemboca el Ebro en el Mediterráneo ?",
+      "options":[
+        "Castellón ",
+        "Barcelona",
+        "Tarragona",
+        "Zaragoza"
+      ],
+      "answer":"Tarragona"
+    },
+    {
+      "question":"¿Dónde creció Sigmund Freud ?",
+      "options":[
+        "París",
+        "Munich",
+        "Kiev",
+        "Viena"
+      ],
+      "answer":"Viena"
+    },
+    {
+      "question":"¿En qué continente queda Chile?",
+      "options":[
+        "Asia",
+        "América",
+        "Europa",
+        "Africa"
+      ],
+      "answer":"América"
+    },
+    {
+      "question":"¿Cuántas estrellas tiene la bandera de China?",
+      "options":[
+        "Ninguna es correcta",
+        "6",
+        "0",
+        "5"
+      ],
+      "answer":"5"
+    },
+    {
+      "question":"¿Cuál es la comunidad autónoma más grande de España?",
+      "options":[
+        "Comunidad de Madrid",
+        "Extremadura",
+        "Andalucía ",
+        "País Vasco"
+      ],
+      "answer":"Andalucía"
+    },
+    {
+      "question":"¿Dónde se encuentra Manresa ?",
+      "options":[
+        "Sur de Cataluña",
+        "Norte de Cataluña",
+        "Centro de Cataluña",
+        "Oeste de Cataluña"
+      ],
+      "answer":"Centro de Cataluña"
+    },
+    {
+      "question":"¿Cuál es la capital de Islandia?",
+      "options":[
+        "Riga ",
+        "Reikjavik",
+        "Dublín",
+        "Minsk"
+      ],
+      "answer":"Reikjavik"
+    },
+    {
+      "question":"¿En qué provincia está Valdelinares el pueblo más alto de España?",
+      "options":[
+        "Zaragoza ",
+        "Granada ",
+        "Teruel ",
+        "Gran Canaria "
+      ],
+      "answer":"Teruel"
+    },
+    {
+      "question":"¿De que tiene forma Italia?",
+      "options":[
+        "Gorro ",
+        "Bota ",
+        "Submarino ",
+        "Nube "
+      ],
+      "answer":"Bota"
+    },
+    {
+      "question":"¿Cuál es la capital de Luxemburgo?",
+      "options":[
+        "Berlín ",
+        "Luxemburgo ",
+        "Berna",
+        "La Valeta "
+      ],
+      "answer":"Luxemburgo"
+    },
+    {
+      "question":"¿Cuál es el océano más profundo ?",
+      "options":[
+        "Atlántico ",
+        "Pacífico",
+        "Índico ",
+        "Ártico "
+      ],
+      "answer":"Pacífico"
+    },
+    {
+      "question":"¿Dónde se encuentra la Comisión y el Consejo Europeo?",
+      "options":[
+        "Bruselas ",
+        "Estrasburgo ",
+        "Londres ",
+        "Luxemburgo"
+      ],
+      "answer":"Bruselas"
+    },
+    {
+      "question":"¿En qué provincia vasca se situa el pueblo de Soraluze?",
+      "options":[
+        "Gipuzkoa",
+        "Iparralde ",
+        "Álava",
+        "Vizkaia"
+      ],
+      "answer":"Gipuzkoa"
+    },
+    {
+      "question":"¿Cuál es la capital de Vizcaia, País Vasco?",
+      "options":[
+        "Sopuerta",
+        "Donostia ",
+        "Vitoria",
+        "Bilbao"
+      ],
+      "answer":"Bilbao"
+    },
+    {
+      "question":"¿Cuál de las siguientes ciudades es la capital autonómica de Extremadura? ",
+      "options":[
+        "Badajoz ",
+        "Mérida ",
+        "Zafra ",
+        "Cáceres "
+      ],
+      "answer":"Mérida"
+    },
+    {
+      "question":"¿De dónde eran los vikingos?",
+      "options":[
+        "Suiza ",
+        "U.S.A ",
+        "Italia",
+        "Noruega "
+      ],
+      "answer":"Noruega"
+    },
+    {
+      "question":"¿Dónde están las líneas de Nazca?",
+      "options":[
+        "En Chile ",
+        "En Colombia ",
+        "En Perú",
+        "En Paraguay"
+      ],
+      "answer":"En Perú"
+    },
+    {
+      "question":"¿Qué países integran la alianza centroeuropea llamada Grupo Visegrad?",
+      "options":[
+        "Hungría,Polonia,Bosnia y Eslovenia ",
+        "Hungría,Polonia,Rep. Checa y Eslovaquia",
+        "Hungría,Polonia,Rep. Checa y Bosnia",
+        "Hungría,Polonia,Eslovequia,Eslovenia"
+      ],
+      "answer":"Hungría,Polonia,Rep. Checa y Eslovaquia"
+    },
+    {
+      "question":"¿A qué país pertenece el código internacional PA?",
+      "options":[
+        "Portugal ",
+        "Panamá",
+        "Palestina",
+        "Palaos"
+      ],
+      "answer":"Panamá"
+    },
+    {
+      "question":"¿En qué pais situarías a la bahia Hudson?",
+      "options":[
+        "Estados Unidos ",
+        "Canadá",
+        "Irlanda",
+        "Australia"
+      ],
+      "answer":"Canadá"
+    },
+    {
+      "question":"¿Qué ciudad es conocida por su carnaval,considerado el segundo más importante del mundo ?",
+      "options":[
+        "Cádiz",
+        "Las Palmas de Gran Canaria",
+        "Santa Cruz de Tenerife",
+        "Sitges "
+      ],
+      "answer":"Santa Cruz de Tenerife"
+    },
+    {
+      "question":"¿En qué ciudad de Andalucía es típico el carnaval?",
+      "options":[
+        "Sevilla",
+        "Granada ",
+        "Málaga",
+        "Cádiz"
+      ],
+      "answer":"Cádiz"
+    },
+    {
+      "question":"¿Dónde se encuentran las Lagunas de Ruidera?",
+      "options":[
+        "Comunidad Valenciana",
+        "Castilla la Mancha",
+        "Galicia",
+        "Castilla y Leon"
+      ],
+      "answer":"Castilla la Mancha"
+    },
+    {
+      "question":"¿Dónde está la montaña de Jade ? ",
+      "options":[
+        "China",
+        "Corea del Sur",
+        "Taiwan",
+        "Singapur "
+      ],
+      "answer":"Taiwan"
+    },
+    {
+      "question":"¿Cuáles son los colores de la bandera de Bolivia? ",
+      "options":[
+        "Rojo,amarillo y verde",
+        "Verde,azul y amarillo",
+        "Rojo,naranja y verde",
+        "Amarillo,verde y blanco"
+      ],
+      "answer":"Rojo,amarillo y verde"
+    },
+    {
+      "question":"¿Dónde están las líneas de Nazca? ",
+      "options":[
+        "En Chile ",
+        "En Colombia",
+        "En Perú",
+        "En Paraguay"
+      ],
+      "answer":"En Perú"
+    },
+    {
+      "question":"¿Cuál es el país más pequeño de Asia ? ",
+      "options":[
+        "Maldivas",
+        "Nauru",
+        "Laos",
+        "Japón"
+      ],
+      "answer":"Maldivas"
+    },
+    {
+      "question":"¿Cuantas islas tienen las Islas Canarias y cuantos islotes? ",
+      "options":[
+        "7 islas y 5 islotes",
+        "7 islas y 6 islotes ",
+        "6 islas y 6 islotes",
+        "7 islas y 7 islotes"
+      ],
+      "answer":"7 islas y 6 islotes"
+    },
+    {
+      "question":"¿En qué comunidad autónoma se encuentra la población de Torrijos? ",
+      "options":[
+        "Cádiz ",
+        "Burgos ",
+        "Toledo ",
+        "Lleida"
+      ],
+      "answer":"Toledo"
+    },
+    {
+      "question":"¿Dónde se encuentra el Cabo de Gata ? ",
+      "options":[
+        "En Almería ",
+        "En Cádiz ",
+        "En Alicante ",
+        "En Huelva"
+      ],
+      "answer":"En Almería"
+    },
+    {
+      "question":"¿De qué país es el panda el animal nacional ? ",
+      "options":[
+        "Canadá ",
+        "Tanzania",
+        "China",
+        "Australia"
+      ],
+      "answer":"China"
+    },
+    {
+      "question":"¿Dónde está Pernambuco? ",
+      "options":[
+        "En Brasil",
+        "En Chile",
+        "En Sudáfrica",
+        "En India"
+      ],
+      "answer":"En Brasil"
+    }
+  ]
+}
